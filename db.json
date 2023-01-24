@@ -1,0 +1,3302 @@
+{
+  "goods": [
+    {
+      "description": "Умови використання сертифікату: \n1. Термін використання сертифікату 6 місяців з моменту його придбання. \n2. Сертифікат може бути використаний одноразово на суму, вказану у сертифікаті, або більше. \n3. Сертифікат діє на весь ассортимент онлайн-магазину YARO.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674246572716,
+      "title": "Подарунковий сертифікат 500 грн",
+      "price": "500",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2508/small/e9466897777e643b09a39189ad2df30d357b21ba.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2508/detail/e9466897777e643b09a39189ad2df30d357b21ba.webp"
+      ],
+      "inside": ["Подарунковий сертифікат 500 грн"],
+      "weight": "",
+      "amount": "1",
+      "category": "Подарункові сертифікати"
+    },
+    {
+      "description": "Умови використання сертифікату: \n1. Термін використання сертифікату 6 місяців з моменту його придбання. \n2. Сертифікат може бути використаний одноразово на суму, вказану в сертифікаті, або більше. \n3. Сертифікат діє на весь асортимент онлайн-магазину YARO.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674246686385,
+      "title": "Подарунковий сертифікат 1000 грн.",
+      "price": "1000",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2500/small/fb69a8532ae45b52720bbe6e4b5e99a6811f7546.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2500/detail/fb69a8532ae45b52720bbe6e4b5e99a6811f7546.webp"
+      ],
+      "inside": ["Подарунковий сертифікат 1000 грн."],
+      "weight": "",
+      "amount": "1",
+      "category": "Подарункові сертифікати"
+    },
+    {
+      "description": "Умови використання сертифікату: \n1. Термін використання сертифікату 6 місяців з моменту його придбання. \n2. Сертифікат може бути використаний одноразово на суму, вказану в сертифікаті, або більше. \n3. Сертифікат діє на весь асортимент онлайн-магазину YARO.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674246718147,
+      "title": "Подарунковий сертифікат 2000 грн.",
+      "price": "2000",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2503/small/b39590003e03267e002658d09ee5666487f2a516.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2503/detail/b39590003e03267e002658d09ee5666487f2a516.webp"
+      ],
+      "inside": ["Подарунковий сертифікат 2000 грн."],
+      "weight": "",
+      "amount": "1",
+      "category": "Подарункові сертифікати"
+    },
+    {
+      "description": "Умови використання сертифікату: \n1. Термін використання сертифікату 6 місяців з моменту його придбання. \n2. Сертифікат може бути використаний одноразово на суму, вказану в сертифікаті, або більше. \n3. Сертифікат діє на весь асортимент онлайн-магазину YARO.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674246746112,
+      "title": "Подарунковий сертифікат 5000 грн.",
+      "price": "5000",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2506/small/9bb231aa2d249430a62bac988120a6d30fa2b56b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2506/detail/9bb231aa2d249430a62bac988120a6d30fa2b56b.webp"
+      ],
+      "inside": ["Подарунковий сертифікат 5000 грн."],
+      "weight": "",
+      "amount": "1",
+      "category": "Подарункові сертифікати"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674246856630,
+      "title": "Вівсяний кранч на кокосових вершках без глютену",
+      "price": "241",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2815/small/d1ed175e37b5fbae833e59f1278e6a86ce457215.webp",
+        "https://yaro.ua/assets/images/products/2815/small/8d83d3ed48ba9b24a01ffaf80dc698ca8bf45e5f.webp",
+        "https://yaro.ua/assets/images/products/2815/small/8ba22a206de93c276832ad452e951d2ea7a4d218.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2815/detail/d1ed175e37b5fbae833e59f1278e6a86ce457215.webp",
+        "https://yaro.ua/assets/images/products/2815/detail/8d83d3ed48ba9b24a01ffaf80dc698ca8bf45e5f.webp",
+        "https://yaro.ua/assets/images/products/2815/detail/8ba22a206de93c276832ad452e951d2ea7a4d218.webp"
+      ],
+      "inside": [
+        "Кокосове молоко",
+        "Масло кокосове",
+        "Насіння льону",
+        "Пластівці вівсяні",
+        "Рожева гімалайська сіль",
+        "Цукор кокосовий"
+      ],
+      "weight": "200",
+      "amount": "1",
+      "category": "Гранола та снеки"
+    },
+    {
+      "description": "Звичний сніданок багатьох став ще корисніше і смачніше!\n\nВи точно такого ще не пробували: в складі зелена гречка, банан, яблуко, фінік і корисні насіння. Таку гранолу можна заправляти мигдалевим або кокосовим молоком, а можна їсти просто так в якості корисного снека.",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674246861927,
+      "title": "Гранола із зеленої гречки льон &amp; кориця",
+      "price": "175",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1911/small/197c1284cfc6a3d38776ca99a61ccfb0edd2bfa0.webp",
+        "https://yaro.ua/assets/images/products/1911/small/b433644b7e1a570d4878ad7f94dbd926fd7ca8d2.webp",
+        "https://yaro.ua/assets/images/products/1911/small/2fac95a85d0bc7b9d88b6f687a1b67aa57a8a376.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1911/detail/197c1284cfc6a3d38776ca99a61ccfb0edd2bfa0.webp",
+        "https://yaro.ua/assets/images/products/1911/detail/b433644b7e1a570d4878ad7f94dbd926fd7ca8d2.webp",
+        "https://yaro.ua/assets/images/products/1911/detail/2fac95a85d0bc7b9d88b6f687a1b67aa57a8a376.webp"
+      ],
+      "inside": [
+        "Гречка зелена",
+        "Родзинки",
+        "Пластівці вівсяні",
+        "Насіння льону",
+        "Насіння гарбуза",
+        "Фінік",
+        "Яблуко",
+        "Банан",
+        "Кориця мелена"
+      ],
+      "weight": "200",
+      "amount": "1",
+      "category": "Гранола та снеки"
+    },
+    {
+      "description": "Хрустка шоколадна гранола з фруктами - ось він ідеальний сніданок!\n\nУ Гранолі немає цукру і підсолоджувачів, тільки користь і смак натуральних фруктів.\n\nМожна їсти з молоком або йогуртом, а можна похрумтіти в якості здорового перекусу.",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674246866363,
+      "title": "Гранола із зеленої гречки кероб &amp; банан",
+      "price": "175",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1908/small/5382e76396f1ac103f3ab87f0edfe6729787f679.webp",
+        "https://yaro.ua/assets/images/products/1908/small/aa248cc6b3b5e5205566b578227fe21e2096f53d.webp",
+        "https://yaro.ua/assets/images/products/1908/small/142eea5aed8118f24d07a71e036f38d82b4aea1e.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1908/detail/5382e76396f1ac103f3ab87f0edfe6729787f679.webp",
+        "https://yaro.ua/assets/images/products/1908/detail/aa248cc6b3b5e5205566b578227fe21e2096f53d.webp",
+        "https://yaro.ua/assets/images/products/1908/detail/142eea5aed8118f24d07a71e036f38d82b4aea1e.webp"
+      ],
+      "inside": [
+        "Гречка зелена",
+        "Родзинки",
+        "Фінік",
+        "Яблуко",
+        "Банан",
+        "Пластівці вівсяні",
+        "Кероб",
+        "Насіння гарбуза",
+        "Какао-масло"
+      ],
+      "weight": "200",
+      "amount": "1",
+      "category": "Гранола та снеки"
+    },
+    {
+      "description": "Любителям солоних перекусів присвячується! Зустрічайте хрустку новинку від YARO - корисні хлібці з кабачком, які стануть приємним доповненням до зігріваючого супу-пюре або ситним перекусом серед зайнятого дня.\n\nЇх унікальність в особливому інгредієнті - псіліумі. Нехай незнайоме слово вас не лякає, адже це натуральне джерело корисної клітковини, яка допомагає організму позбавитися від токсинів і покращує мікрофлору кишечника.\n\nХлібці готуються на основі гречаної муки та насіння і не містять продуктів тваринного походження.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247051509,
+      "title": "Хлібці лляні з кабачком",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1665/small/cb447a67015f9a6f3742f39f4b006aa59b975275.webp",
+        "https://yaro.ua/assets/images/products/1665/small/72616ea90d830ca0932f7a9bac73bf6849bfa325.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1665/detail/cb447a67015f9a6f3742f39f4b006aa59b975275.webp",
+        "https://yaro.ua/assets/images/products/1665/detail/72616ea90d830ca0932f7a9bac73bf6849bfa325.webp"
+      ],
+      "inside": [
+        "Борошно гречане",
+        "Кабачок",
+        "Олія виноградних кісточок",
+        "Насіння коноплі",
+        "Псиліум",
+        "Насіння льону",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "100",
+      "amount": "1",
+      "category": "Гранола та снеки"
+    },
+    {
+      "description": "Оновлені горішки в шоколаді без присипки. \n\nМи дуже старалися, аби зберегти ваш улюблений смак та простий склад.\n\nІ в нас вийшло: смачний, поживний, зі зрозумілими інгредієнтами та знайомим смаком — фундук в керобі тепер ще й став зручними та не забруднить ані ваші руки, ані будь-що навколо.\n\nМи використовуємо суперфуд кероб, замість звичайного шоколаду та какао-масло найвищої якості задля неперевершеного смаку та користі. \n\nНасолодіться цим поживним снеком, який точно залишить чистими ваші руки, новеньку скатертину, білу сорочку або поверхню тачпаду.",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674247295975,
+      "title": "Глазуровані горіхи \"Фундук в керобі без цукру\" ",
+      "price": "99",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1617/small/e27b0266901882e87b71ebdef1ae33f518f17910.webp",
+        "https://yaro.ua/assets/images/products/1617/small/d2b200390b983e4886653e2210c7be739e466985.webp",
+        "https://yaro.ua/assets/images/products/1617/small/9b9e8159d3c314102be9849e5acdf35993c241b7.webp",
+        "https://yaro.ua/assets/images/products/1617/small/84961e16a72a7a40de74d5e67ec7929e0cf0214d.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1617/detail/e27b0266901882e87b71ebdef1ae33f518f17910.webp",
+        "https://yaro.ua/assets/images/products/1617/detail/d2b200390b983e4886653e2210c7be739e466985.webp",
+        "https://yaro.ua/assets/images/products/1617/detail/9b9e8159d3c314102be9849e5acdf35993c241b7.webp",
+        "https://yaro.ua/assets/images/products/1617/detail/84961e16a72a7a40de74d5e67ec7929e0cf0214d.webp"
+      ],
+      "inside": [
+        "Кероб",
+        "Горіх фундук",
+        "Какао-масло",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "75",
+      "amount": "1",
+      "category": "Горіхи в шоколаді"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247544990,
+      "title": "Набір цукерок - Ferrero",
+      "price": "209",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2821/small/91d9ed1fd07719ee284ad17ac2c22e878ab83c52.webp",
+        "https://yaro.ua/assets/images/products/2821/small/7c6af4c8047818b15aa42c4bb957b4a8a972abef.webp",
+        "https://yaro.ua/assets/images/products/2821/small/9f9f69f87a997e7ee7ccc89c38c0584af240180e.webp",
+        "https://yaro.ua/assets/images/products/2821/small/eb0854ad199d600ce7804a249d3e27c513a5e8bc.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2821/detail/91d9ed1fd07719ee284ad17ac2c22e878ab83c52.webp",
+        "https://yaro.ua/assets/images/products/2821/detail/7c6af4c8047818b15aa42c4bb957b4a8a972abef.webp",
+        "https://yaro.ua/assets/images/products/2821/detail/9f9f69f87a997e7ee7ccc89c38c0584af240180e.webp",
+        "https://yaro.ua/assets/images/products/2821/detail/eb0854ad199d600ce7804a249d3e27c513a5e8bc.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Какао терте",
+        "Какао-масло",
+        "Пластівці вівсяні",
+        "Родзинки",
+        "Рожева гімалайська сіль",
+        "Фінік",
+        "Шоколад без цукру"
+      ],
+      "weight": "120",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247591509,
+      "title": "Набір цукерок - Nutty Melon",
+      "price": "209",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2791/small/692230abfe1e7e7a2e0b93a716982caeedd9d18a.webp",
+        "https://yaro.ua/assets/images/products/2791/small/e05b495022034849dfa0189207005697613c1830.webp",
+        "https://yaro.ua/assets/images/products/2791/small/e846ecc41ec84b5767856b60cb21689968c2ca9f.webp",
+        "https://yaro.ua/assets/images/products/2791/small/fb01fa551922f7408cfa6219e54599cbcdb17a84.webp",
+        "https://yaro.ua/assets/images/products/2791/small/575233c4810de9eca73983cc163e5624f6bb75d2.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2791/detail/692230abfe1e7e7a2e0b93a716982caeedd9d18a.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/e05b495022034849dfa0189207005697613c1830.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/e846ecc41ec84b5767856b60cb21689968c2ca9f.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/fb01fa551922f7408cfa6219e54599cbcdb17a84.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/575233c4810de9eca73983cc163e5624f6bb75d2.webp"
+      ],
+      "inside": [
+        "Диня",
+        "Емульгатор Лецитин соняшниковий",
+        "Какао терте",
+        "Какао-масло",
+        "Натуральний екстракт ванілі",
+        "Пластівці вівсяні",
+        "Рожева гімалайська сіль",
+        "Ядра арахісу"
+      ],
+      "weight": "120",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674247665270,
+      "title": "Набір цукерок - Marzipan heart",
+      "price": "259",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2830/small/c5054576c06cec08862ccc17e66c8eb2357d4f9f.webp",
+        "https://yaro.ua/assets/images/products/2830/small/162d6cb59a359a86b221f920e29b5a6b944360c3.webp",
+        "https://yaro.ua/assets/images/products/2830/small/3d7158f3071b2d47606c870dbeaf7f871eaee159.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2830/detail/c5054576c06cec08862ccc17e66c8eb2357d4f9f.webp",
+        "https://yaro.ua/assets/images/products/2830/detail/162d6cb59a359a86b221f920e29b5a6b944360c3.webp",
+        "https://yaro.ua/assets/images/products/2830/detail/3d7158f3071b2d47606c870dbeaf7f871eaee159.webp"
+      ],
+      "inside": [
+        "Апельсин",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Какао терте",
+        "Какао-масло",
+        "Натуральний екстракт ванілі",
+        "Пластівці мигдалеві"
+      ],
+      "weight": "160",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247660183,
+      "title": "Набір цукерок - Energy Ball Hazelnut",
+      "price": "149",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2785/small/b9b5a56625844034e21504dd82acc51318ed7bc6.webp",
+        "https://yaro.ua/assets/images/products/2785/small/7d196e216955d37dd1fd90a7dd9c97ae001004dc.webp",
+        "https://yaro.ua/assets/images/products/2785/small/881fe85fe9d821202f9d0c649e568bd6af10ebba.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2785/detail/b9b5a56625844034e21504dd82acc51318ed7bc6.webp",
+        "https://yaro.ua/assets/images/products/2785/detail/7d196e216955d37dd1fd90a7dd9c97ae001004dc.webp",
+        "https://yaro.ua/assets/images/products/2785/detail/881fe85fe9d821202f9d0c649e568bd6af10ebba.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок",
+        "Какао-масло",
+        "Кокосова стружка"
+      ],
+      "weight": "102",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247654358,
+      "title": "Набір цукерок - Energy Ball Almond",
+      "price": "229",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2788/small/4fcb4212038854f7a9867afe23c0a883fdfc842c.webp",
+        "https://yaro.ua/assets/images/products/2788/small/fb97054736a60525b3d53caff59c052a7da45287.webp",
+        "https://yaro.ua/assets/images/products/2788/small/789fbf032e28e7b4911a14d3fa329eb064fe88e7.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2788/detail/4fcb4212038854f7a9867afe23c0a883fdfc842c.webp",
+        "https://yaro.ua/assets/images/products/2788/detail/fb97054736a60525b3d53caff59c052a7da45287.webp",
+        "https://yaro.ua/assets/images/products/2788/detail/789fbf032e28e7b4911a14d3fa329eb064fe88e7.webp"
+      ],
+      "inside": [
+        "Горіх мигдаль",
+        "Екстракт яблучного соку концентрований",
+        "Какао-масло",
+        "Кориця мелена"
+      ],
+      "weight": "126",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247648785,
+      "title": "Набір печива - Пісочне з шоколадом",
+      "price": "169",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2779/small/7f9a438c521ba54a42c92928a31fa79dad293d3e.webp",
+        "https://yaro.ua/assets/images/products/2779/small/20b2efae2c374dcd2718c141b4392e90af7898d5.webp",
+        "https://yaro.ua/assets/images/products/2779/small/632851489222ad99ec3ef3824c60dfab6c38fad4.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2779/detail/7f9a438c521ba54a42c92928a31fa79dad293d3e.webp",
+        "https://yaro.ua/assets/images/products/2779/detail/20b2efae2c374dcd2718c141b4392e90af7898d5.webp",
+        "https://yaro.ua/assets/images/products/2779/detail/632851489222ad99ec3ef3824c60dfab6c38fad4.webp"
+      ],
+      "inside": [
+        "Борошно мигдалеве",
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Крохмаль кукурудзяний",
+        "Масло кокосове",
+        "Напій соєвий",
+        "Пластівці вівсяні",
+        "Сода харчова",
+        "Фінік",
+        "Цукор кокосовий"
+      ],
+      "weight": "100",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Эксклюзивна новинка від YARO - цукерка Mango&Nut Fusion, це ніжний горіховий батончик зі шматочками манго.\n\nЙого основа має приємний кокосовий аромат, а поєднання тропічного манго зі шматочками мигдалю та фундука створюють незабутнє поєднання смаків та текстур. Легкий солодкий післясмак цукерці надає суперфуд сироп топінамбура.\n\nВ наборі 6 цукерок.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247803493,
+      "title": "Набір цукерок \"Mango &amp; Nut Fusion\"",
+      "price": "274",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1680/small/5b3dbb6e994499543b86d70d9cfa057eac740d74.webp",
+        "https://yaro.ua/assets/images/products/1680/small/30583017d90054a66e2e450e35e2554f90a5d7b9.webp",
+        "https://yaro.ua/assets/images/products/1680/small/3340e0a4222845108649db5f711bc7e5ada4e181.webp",
+        "https://yaro.ua/assets/images/products/1680/small/f0df459a04b25a7864d6cd50e88f721b965eea85.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1680/detail/5b3dbb6e994499543b86d70d9cfa057eac740d74.webp",
+        "https://yaro.ua/assets/images/products/1680/detail/30583017d90054a66e2e450e35e2554f90a5d7b9.webp",
+        "https://yaro.ua/assets/images/products/1680/detail/3340e0a4222845108649db5f711bc7e5ada4e181.webp",
+        "https://yaro.ua/assets/images/products/1680/detail/f0df459a04b25a7864d6cd50e88f721b965eea85.webp"
+      ],
+      "inside": [
+        "Молоко кокосове сухе",
+        "Стружка кокосова",
+        "Екстракт яблучного соку концентрований",
+        "Какао-масло",
+        "Горіх кеш`ю",
+        "Горіх фундук",
+        "Горіх мигдаль",
+        "Манго сушений",
+        "Паста кокосова",
+        "Ксилітол"
+      ],
+      "weight": "150",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Ми знаємо — ви сумували! Повернення цукерки-легенди Vegan Wheel, що ламає стереотипи про корисні солодощі та закохує у себе навіть відчайдушних фанатів снікерсів. Vegan Wheel має три неповторних шари: щедрий верхній шар вишуканої мигдалевої пасти, карамель з найсолодших фініків та хрустке кокосове печиво. Всі вони надійно сховані під шаром глазурі з керобу, а форма цукерки створена спеціально, щоб мигдальна паста апетитно витікала вже вісля першого «кусь». Замовляйте Vegan Wheel з доставкою по всій країні та смакуйте солодким без докорів сумління.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247844810,
+      "title": "Набір цукерок \"Vegan Wheel\"",
+      "price": "199",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2616/small/a347a7aabdb890a110a6e98e76a905c91671af33.webp",
+        "https://yaro.ua/assets/images/products/2616/small/7fc11de630bf0ac89f76e123a173719bb5daecdd.webp",
+        "https://yaro.ua/assets/images/products/2616/small/c57d6caba210e263ab030faea8949022340d20ac.webp",
+        "https://yaro.ua/assets/images/products/2616/small/b6e0b417935c636e0957092c303d822863fc4c28.webp",
+        "https://yaro.ua/assets/images/products/2616/small/d511eee4034b73022a779734e9f3463fc5cb260a.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2616/detail/a347a7aabdb890a110a6e98e76a905c91671af33.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/7fc11de630bf0ac89f76e123a173719bb5daecdd.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/c57d6caba210e263ab030faea8949022340d20ac.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/b6e0b417935c636e0957092c303d822863fc4c28.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/d511eee4034b73022a779734e9f3463fc5cb260a.webp"
+      ],
+      "inside": [
+        "Горіх кеш`ю",
+        "Горіх мигдаль",
+        "Екстракт яблучного соку концентрований",
+        "Какао-масло",
+        "Кероб",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Стружка кокосова",
+        "Фінік",
+        "Цукор кокосовий"
+      ],
+      "weight": "120",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247881353,
+      "title": "Набір цукерок \"Old School Original\"",
+      "price": "259",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2373/small/06f5138450a48325fc21e0adc992ef87ccdc05ec.webp",
+        "https://yaro.ua/assets/images/products/2373/small/4e6bf807fa06c70bf817c609b7bc7961342174ac.webp",
+        "https://yaro.ua/assets/images/products/2373/small/ea08954335b0ee5ff5b9d742068a303d07031819.webp",
+        "https://yaro.ua/assets/images/products/2373/small/ee9b7a6cd63075ab862f24b03bc619ddd65f4de7.webp",
+        "https://yaro.ua/assets/images/products/2373/small/376d936ee490fee373faa4afeb55487a9655eedb.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2373/detail/06f5138450a48325fc21e0adc992ef87ccdc05ec.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/4e6bf807fa06c70bf817c609b7bc7961342174ac.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/ea08954335b0ee5ff5b9d742068a303d07031819.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/ee9b7a6cd63075ab862f24b03bc619ddd65f4de7.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/376d936ee490fee373faa4afeb55487a9655eedb.webp"
+      ],
+      "inside": [
+        "Какао-масло",
+        "Кокосове молоко",
+        "Фінік",
+        "Кероб",
+        "Екстракт яблучного соку концентрований",
+        "Горіх кеш`ю",
+        "Ядра арахісу",
+        "Масло кокосове",
+        "Крохмаль кукурудзяний"
+      ],
+      "weight": "200",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247921388,
+      "title": "Пиріг Ягідний Тертий",
+      "price": "273",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1710/small/a3ac6a7feb8652dbc81c4d0fde2787d9338f6425.webp",
+        "https://yaro.ua/assets/images/products/1710/small/655373d869d30202e0c21e3343c5835470670a91.webp",
+        "https://yaro.ua/assets/images/products/1710/small/e2b09ac0a7ef6de74a62c01323fbcea1b06f0546.webp",
+        "https://yaro.ua/assets/images/products/1710/small/57ccd323b2c36c8b19c3bbb03ffc607981568603.webp",
+        "https://yaro.ua/assets/images/products/1710/small/7768a75f870aa831aa1180a9266d1952d50fc34e.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1710/detail/a3ac6a7feb8652dbc81c4d0fde2787d9338f6425.webp",
+        "https://yaro.ua/assets/images/products/1710/detail/655373d869d30202e0c21e3343c5835470670a91.webp",
+        "https://yaro.ua/assets/images/products/1710/detail/e2b09ac0a7ef6de74a62c01323fbcea1b06f0546.webp",
+        "https://yaro.ua/assets/images/products/1710/detail/57ccd323b2c36c8b19c3bbb03ffc607981568603.webp",
+        "https://yaro.ua/assets/images/products/1710/detail/7768a75f870aa831aa1180a9266d1952d50fc34e.webp"
+      ],
+      "inside": [
+        "Горіх мигдаль",
+        "Смородина",
+        "Малина",
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Масло кокосове",
+        "Крохмаль кукурудзяний",
+        "Чорниця",
+        "Цукор кокосовий"
+      ],
+      "weight": "190",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674247959789,
+      "title": "Набір печива - Вівсяне печиво з малиною",
+      "price": "189",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2739/small/791e94e7d7d3cfc96b8753bb979093f25df4a967.webp",
+        "https://yaro.ua/assets/images/products/2739/small/77b47a6c4c6e931e98e954de793b7403137decb8.webp",
+        "https://yaro.ua/assets/images/products/2739/small/2e4f2b45491fd9edadf7001ae87dd6d25857185f.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2739/detail/791e94e7d7d3cfc96b8753bb979093f25df4a967.webp",
+        "https://yaro.ua/assets/images/products/2739/detail/77b47a6c4c6e931e98e954de793b7403137decb8.webp",
+        "https://yaro.ua/assets/images/products/2739/detail/2e4f2b45491fd9edadf7001ae87dd6d25857185f.webp"
+      ],
+      "inside": [
+        "Агар-агар",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Крохмаль кукурудзяний",
+        "Малина",
+        "Масло кокосове",
+        "Пластівці вівсяні"
+      ],
+      "weight": "100",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "В наборі 2 шт. \n\nНаше легендарне тістечко-мурашник Crumble відтепер стало ще зручніше та корисніше. Зустрічайте no added sugar та gluten-free печиво Caramel Crush!\n\nОснова десерту готується з безглютенового борошна, а ніжна карамель — на основі яблучного сиропу. А індивідуальна flow-pack упаковка дозволяє десерту довше зберігати свій смак та якість навіть на спеці, а ще її так зручно брати з собою в кишеньці будь-якої сумки!",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248018135,
+      "title": "Набір печива \"Caramel Crush Cookies\" ",
+      "price": "129",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1752/small/a894a59707f44127e232f219374c1a31165426dc.webp",
+        "https://yaro.ua/assets/images/products/1752/small/be1cb47cfaddb5effa6105b62b51f21066af5abe.webp",
+        "https://yaro.ua/assets/images/products/1752/small/4879d6d5059bb1b9f30b9ef291f906b876811824.webp",
+        "https://yaro.ua/assets/images/products/1752/small/fef2f576defe682b580ebf0760e155ebff80d8c8.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1752/detail/a894a59707f44127e232f219374c1a31165426dc.webp",
+        "https://yaro.ua/assets/images/products/1752/detail/be1cb47cfaddb5effa6105b62b51f21066af5abe.webp",
+        "https://yaro.ua/assets/images/products/1752/detail/4879d6d5059bb1b9f30b9ef291f906b876811824.webp",
+        "https://yaro.ua/assets/images/products/1752/detail/fef2f576defe682b580ebf0760e155ebff80d8c8.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Екстракт яблучного соку концентрований",
+        "Кокосове молоко",
+        "Олія виноградних кісточок",
+        "Крохмаль кукурудзяний",
+        "Борошно рисове",
+        "Сода харчова",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "100",
+      "amount": "2",
+      "category": "Печиво"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248053105,
+      "title": "Набір печива - Пісочне з шоколадом",
+      "price": "169",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2779/small/7f9a438c521ba54a42c92928a31fa79dad293d3e.webp",
+        "https://yaro.ua/assets/images/products/2779/small/20b2efae2c374dcd2718c141b4392e90af7898d5.webp",
+        "https://yaro.ua/assets/images/products/2779/small/632851489222ad99ec3ef3824c60dfab6c38fad4.webp",
+        "https://yaro.ua/assets/images/products/2779/small/94bcbd54bef43c4fc98412962b94559dc84b982f.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2779/detail/7f9a438c521ba54a42c92928a31fa79dad293d3e.webp",
+        "https://yaro.ua/assets/images/products/2779/detail/20b2efae2c374dcd2718c141b4392e90af7898d5.webp",
+        "https://yaro.ua/assets/images/products/2779/detail/632851489222ad99ec3ef3824c60dfab6c38fad4.webp",
+        "https://yaro.ua/assets/images/products/2779/detail/94bcbd54bef43c4fc98412962b94559dc84b982f.webp"
+      ],
+      "inside": [
+        "Борошно мигдалеве",
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Крохмаль кукурудзяний",
+        "Масло кокосове",
+        "Напій соєвий",
+        "Пластівці вівсяні",
+        "Сода харчова",
+        "Фінік",
+        "Цукор кокосовий"
+      ],
+      "weight": "100",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Наші клієнти говорять, що смак цього печива повертає їх в теплі дитячі спогади. Дійсно, печиво Вівсяне classic  — це улюблена класика, яка стала ще кориснішою в кондитерській YARO.\n\nМи самі робимо вівсяну муку з безглютенових пластівців, вибираємо тільки якісні рослинні інгредієнти.\n\nСолодкий смак завдяки кокосовому цукру  — натуральний підсолоджувач з низьким глікемічним індексом і безліччю корисних мінералів у складі. \n\nІдеальне поєднання: спробуйте вівсяне печиво з нашим кремом на основі кокосових вершків. Контраст текстур і ніжний смак не залишать байдужими навіть найвибагливіших ласунів. \n\nПодача: 2 упаковки по 2 печива, які зручно брати з собою для корисних перекусів серед дня.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248111798,
+      "title": "Набір печива \"Вівсяне Classic\"",
+      "price": "116",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1572/small/584053342228289a7be5dfd8010c8f53cf6bedef.webp",
+        "https://yaro.ua/assets/images/products/1572/small/add570a747ce90a7983a6bd9f984fc93e2589842.webp",
+        "https://yaro.ua/assets/images/products/1572/small/942d5cb04d871b5be8ef8c255fdcc530936f7140.webp",
+        "https://yaro.ua/assets/images/products/1572/small/bf04170ab5cd6a4277cc9925cc05c7ffec4dc511.webp",
+        "https://yaro.ua/assets/images/products/1572/small/5b1b268cdf5b3d2e76df874a3b44204ab9a4053d.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1572/detail/584053342228289a7be5dfd8010c8f53cf6bedef.webp",
+        "https://yaro.ua/assets/images/products/1572/detail/add570a747ce90a7983a6bd9f984fc93e2589842.webp",
+        "https://yaro.ua/assets/images/products/1572/detail/942d5cb04d871b5be8ef8c255fdcc530936f7140.webp",
+        "https://yaro.ua/assets/images/products/1572/detail/bf04170ab5cd6a4277cc9925cc05c7ffec4dc511.webp",
+        "https://yaro.ua/assets/images/products/1572/detail/5b1b268cdf5b3d2e76df874a3b44204ab9a4053d.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Цукор кокосовий",
+        "Насіння гарбуза",
+        "Масло кокосове",
+        "Вода",
+        "Насіння льону",
+        "Сода харчова",
+        "Лимон"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Печиво"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248172546,
+      "title": "Набір печива \"Вівсяне Choco drops\"",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1587/small/a11196a404f4c3d060bc6b7d09d92b156ef3e5d7.webp",
+        "https://yaro.ua/assets/images/products/1587/small/1c2ec77ecac84938b7644dccf68236736e9629f3.webp",
+        "https://yaro.ua/assets/images/products/1587/small/c9d42124d6b3ff0ed96b308bbf06e04194cca214.webp",
+        "https://yaro.ua/assets/images/products/1587/small/bf4ebeab3c1d9e7f9eeb1e042f8922e939f75030.webp",
+        "https://yaro.ua/assets/images/products/1587/small/5f4e17ba76663ae0f99e10a2198d93fa3e6b9109.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1587/detail/a11196a404f4c3d060bc6b7d09d92b156ef3e5d7.webp",
+        "https://yaro.ua/assets/images/products/1587/detail/1c2ec77ecac84938b7644dccf68236736e9629f3.webp",
+        "https://yaro.ua/assets/images/products/1587/detail/c9d42124d6b3ff0ed96b308bbf06e04194cca214.webp",
+        "https://yaro.ua/assets/images/products/1587/detail/bf4ebeab3c1d9e7f9eeb1e042f8922e939f75030.webp",
+        "https://yaro.ua/assets/images/products/1587/detail/5f4e17ba76663ae0f99e10a2198d93fa3e6b9109.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Насіння гарбуза",
+        "Шоколадні термодропси без цукру",
+        "Цукор кокосовий",
+        "Масло кокосове",
+        "Вода",
+        "Насіння льону",
+        "Лимон",
+        "Сода харчова"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Печиво"
+    },
+    {
+      "description": "Хрустке шоколадне печиво  —  улюблені ласощі багатьох! А що, якщо ми скажемо, що в ньому немає білого цукру, борошна та інгредієнтів тваринного походження? \n\nВ основі цього печива насіння чіа, в яких міститься найбільша кількість корисних жирів і клітковини. Печиво   Choco cookies сміливо можна назвати суперфудом, адже в його складі всього 5 корисних компонентів. 9/10 клієнтів вибирають це печиво за насичений шоколадний смак і незвичайну текстуру. \n\nПодача: 2 упаковки по 2 печива. ",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248226081,
+      "title": "Набір печива \"Choco Cookies\"",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1611/small/e2fba48f9ed3d002f84775578a5622f2c1a403a5.webp",
+        "https://yaro.ua/assets/images/products/1611/small/a24cfa54e0e23afa482928f924fb7653529b22a1.webp",
+        "https://yaro.ua/assets/images/products/1611/small/1cbd70290421c1a21f7576c237998b06f35b1ce4.webp",
+        "https://yaro.ua/assets/images/products/1611/small/26af9b3c5f7428b36bdd3d56f4d30c514b0a0f3c.webp",
+        "https://yaro.ua/assets/images/products/1611/small/43043cd396ef0ef9ed3f885913d7dda87fb66187.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1611/detail/e2fba48f9ed3d002f84775578a5622f2c1a403a5.webp",
+        "https://yaro.ua/assets/images/products/1611/detail/a24cfa54e0e23afa482928f924fb7653529b22a1.webp",
+        "https://yaro.ua/assets/images/products/1611/detail/1cbd70290421c1a21f7576c237998b06f35b1ce4.webp",
+        "https://yaro.ua/assets/images/products/1611/detail/26af9b3c5f7428b36bdd3d56f4d30c514b0a0f3c.webp",
+        "https://yaro.ua/assets/images/products/1611/detail/43043cd396ef0ef9ed3f885913d7dda87fb66187.webp"
+      ],
+      "inside": [
+        "Горіх мигдаль",
+        "Цукор кокосовий",
+        "Какао терте",
+        "Вода",
+        "Какао-масло",
+        "Какао порошок",
+        "Насіння чіа"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Печиво"
+    },
+    {
+      "description": "Наші кондитери точно знають, як ви любите солодощі з горішками, тому вони створили печиво вівсяне Мигдаль. Ніжний аромат і класичний смак вівсяного печива переносять в дитинство і навіють найтепліші спогади. \n\nІдеальне поєднання: хрустку текстуру печива доповнить чашка улюбленого чаю або мигдального напою, наприклад, Матча латте. Солодкий перекус протягом дня або доповнення до ранкової кави — для цих ласощів не потрібен особливий привід. \n\nПодача: 2 упаковки по 2 печива, які зручно брати з собою для корисних перекусів серед дня. ",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248263670,
+      "title": "Набір печива \"Вівсяне мигдаль\"",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1581/small/a7739f5f4ccbccb09193f60730e3e7f572ec829a.webp",
+        "https://yaro.ua/assets/images/products/1581/small/ba8acbe758e1bc35f5c0e8f89f2dfe8ae6e1e689.webp",
+        "https://yaro.ua/assets/images/products/1581/small/fb345f198bc3c133310ff2b80a8e58e1d7cb242b.webp",
+        "https://yaro.ua/assets/images/products/1581/small/2c3f1d7ae8a7048bb6d8a55edbfe4981b99a663f.webp",
+        "https://yaro.ua/assets/images/products/1581/small/821d4cf2e4442012ccbd162924d3400de0f42660.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1581/detail/a7739f5f4ccbccb09193f60730e3e7f572ec829a.webp",
+        "https://yaro.ua/assets/images/products/1581/detail/ba8acbe758e1bc35f5c0e8f89f2dfe8ae6e1e689.webp",
+        "https://yaro.ua/assets/images/products/1581/detail/fb345f198bc3c133310ff2b80a8e58e1d7cb242b.webp",
+        "https://yaro.ua/assets/images/products/1581/detail/2c3f1d7ae8a7048bb6d8a55edbfe4981b99a663f.webp",
+        "https://yaro.ua/assets/images/products/1581/detail/821d4cf2e4442012ccbd162924d3400de0f42660.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Горіх мигдаль",
+        "Цукор кокосовий",
+        "Насіння гарбуза",
+        "Масло кокосове",
+        "Вода",
+        "Насіння льону",
+        "Лимон",
+        "Сода харчова"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Печиво"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248312187,
+      "title": "Набір печива - Вівсяне печиво з малиною",
+      "price": "189",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2739/small/791e94e7d7d3cfc96b8753bb979093f25df4a967.webp",
+        "https://yaro.ua/assets/images/products/2739/small/77b47a6c4c6e931e98e954de793b7403137decb8.webp",
+        "https://yaro.ua/assets/images/products/2739/small/2e4f2b45491fd9edadf7001ae87dd6d25857185f.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2739/detail/791e94e7d7d3cfc96b8753bb979093f25df4a967.webp",
+        "https://yaro.ua/assets/images/products/2739/detail/77b47a6c4c6e931e98e954de793b7403137decb8.webp",
+        "https://yaro.ua/assets/images/products/2739/detail/2e4f2b45491fd9edadf7001ae87dd6d25857185f.webp"
+      ],
+      "inside": [
+        "Агар-агар",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Крохмаль кукурудзяний",
+        "Малина",
+        "Масло кокосове",
+        "Пластівці вівсяні"
+      ],
+      "weight": "100",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Эксклюзивна новинка від YARO - цукерка Mango&Nut Fusion, це ніжний горіховий батончик зі шматочками манго.\n\nЙого основа має приємний кокосовий аромат, а поєднання тропічного манго зі шматочками мигдалю та фундука створюють незабутнє поєднання смаків та текстур. Легкий солодкий післясмак цукерці надає суперфуд сироп топінамбура.\n\nВ наборі 6 цукерок.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248367073,
+      "title": "Набір цукерок \"Mango &amp; Nut Fusion\"",
+      "price": "274",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1680/small/5b3dbb6e994499543b86d70d9cfa057eac740d74.webp",
+        "https://yaro.ua/assets/images/products/1680/small/30583017d90054a66e2e450e35e2554f90a5d7b9.webp",
+        "https://yaro.ua/assets/images/products/1680/small/3340e0a4222845108649db5f711bc7e5ada4e181.webp",
+        "https://yaro.ua/assets/images/products/1680/small/f0df459a04b25a7864d6cd50e88f721b965eea85.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1680/detail/5b3dbb6e994499543b86d70d9cfa057eac740d74.webp",
+        "https://yaro.ua/assets/images/products/1680/detail/30583017d90054a66e2e450e35e2554f90a5d7b9.webp",
+        "https://yaro.ua/assets/images/products/1680/detail/3340e0a4222845108649db5f711bc7e5ada4e181.webp",
+        "https://yaro.ua/assets/images/products/1680/detail/f0df459a04b25a7864d6cd50e88f721b965eea85.webp"
+      ],
+      "inside": [
+        "Молоко кокосове сухе",
+        "Стружка кокосова",
+        "Екстракт яблучного соку концентрований",
+        "Какао-масло",
+        "Горіх кеш`ю",
+        "Горіх фундук",
+        "Горіх мигдаль",
+        "Манго сушений",
+        "Паста кокосова",
+        "Ксилітол"
+      ],
+      "weight": "150",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Ми знаємо — ви сумували! Повернення цукерки-легенди Vegan Wheel, що ламає стереотипи про корисні солодощі та закохує у себе навіть відчайдушних фанатів снікерсів. Vegan Wheel має три неповторних шари: щедрий верхній шар вишуканої мигдалевої пасти, карамель з найсолодших фініків та хрустке кокосове печиво. Всі вони надійно сховані під шаром глазурі з керобу, а форма цукерки створена спеціально, щоб мигдальна паста апетитно витікала вже вісля першого «кусь». Замовляйте Vegan Wheel з доставкою по всій країні та смакуйте солодким без докорів сумління.",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248415931,
+      "title": "Набір цукерок \"Vegan Wheel\"",
+      "price": "199",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2616/small/a347a7aabdb890a110a6e98e76a905c91671af33.webp",
+        "https://yaro.ua/assets/images/products/2616/small/7fc11de630bf0ac89f76e123a173719bb5daecdd.webp",
+        "https://yaro.ua/assets/images/products/2616/small/c57d6caba210e263ab030faea8949022340d20ac.webp",
+        "https://yaro.ua/assets/images/products/2616/small/b6e0b417935c636e0957092c303d822863fc4c28.webp",
+        "https://yaro.ua/assets/images/products/2616/small/d511eee4034b73022a779734e9f3463fc5cb260a.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2616/detail/a347a7aabdb890a110a6e98e76a905c91671af33.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/7fc11de630bf0ac89f76e123a173719bb5daecdd.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/c57d6caba210e263ab030faea8949022340d20ac.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/b6e0b417935c636e0957092c303d822863fc4c28.webp",
+        "https://yaro.ua/assets/images/products/2616/detail/d511eee4034b73022a779734e9f3463fc5cb260a.webp"
+      ],
+      "inside": [
+        "Горіх кеш`ю",
+        "Горіх мигдаль",
+        "Екстракт яблучного соку концентрований",
+        "Какао-масло",
+        "Кероб",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Стружка кокосова",
+        "Фінік",
+        "Цукор кокосовий"
+      ],
+      "weight": "120",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248454119,
+      "title": "Набір цукерок \"Old School Original\"",
+      "price": "259",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2373/small/06f5138450a48325fc21e0adc992ef87ccdc05ec.webp",
+        "https://yaro.ua/assets/images/products/2373/small/4e6bf807fa06c70bf817c609b7bc7961342174ac.webp",
+        "https://yaro.ua/assets/images/products/2373/small/ea08954335b0ee5ff5b9d742068a303d07031819.webp",
+        "https://yaro.ua/assets/images/products/2373/small/ee9b7a6cd63075ab862f24b03bc619ddd65f4de7.webp",
+        "https://yaro.ua/assets/images/products/2373/small/376d936ee490fee373faa4afeb55487a9655eedb.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2373/detail/06f5138450a48325fc21e0adc992ef87ccdc05ec.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/4e6bf807fa06c70bf817c609b7bc7961342174ac.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/ea08954335b0ee5ff5b9d742068a303d07031819.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/ee9b7a6cd63075ab862f24b03bc619ddd65f4de7.webp",
+        "https://yaro.ua/assets/images/products/2373/detail/376d936ee490fee373faa4afeb55487a9655eedb.webp"
+      ],
+      "inside": [
+        "Какао-масло",
+        "Кокосове молоко",
+        "Фінік",
+        "Кероб",
+        "Екстракт яблучного соку концентрований",
+        "Горіх кеш`ю",
+        "Ядра арахісу",
+        "Масло кокосове",
+        "Крохмаль кукурудзяний"
+      ],
+      "weight": "200",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Ви колись чули про \"цукерку-суперфуд\"? Якщо це не так – ви багато втратили, проте ми готові  познайомити вас прямо зараз! Цукерка Амарант – наша новинка і в кожну її крихту вкладена любов і турбота про ваше здоров'я. В основі цієї цукерки зерна амаранту, які містять багато легкозасвоюваних білків і амінокислот. Також вона містить залізо, кальцій, магній, фосфор, калій і багато-багато вітамінів. Глазур цукерки складається з ще одного суперфуду –  темперованого керобу. \n\nЩе 101 причина закохатися: бездоганний склад, але це не єдина перевага цієї цукерки. Хрустка текстура, насичений шоколадний смак і зручна індивідуальна упаковка не залишають іншого вибору,  як закохатися в Амарант раз і назавжди. \n\nБагато наших клієнтів порівнюють цю цукерку з домашніми вафлями. Не будемо сперечатися, що в поєднанні з чаєм або теплим какао вона наповнює найкращими і теплими спогадами про дитинство. ",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248493413,
+      "title": "Набір цукерок \"Амарант\" ",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1602/small/2d42882bc16e6da483648c5f6efd9ce1b0da149f.webp",
+        "https://yaro.ua/assets/images/products/1602/small/adb5640253ce92c89b3dc629cbf9a79df6a86e79.webp",
+        "https://yaro.ua/assets/images/products/1602/small/5d020ecd18306b1b6f15a9e8e90d51a560e7e67b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1602/detail/2d42882bc16e6da483648c5f6efd9ce1b0da149f.webp",
+        "https://yaro.ua/assets/images/products/1602/detail/adb5640253ce92c89b3dc629cbf9a79df6a86e79.webp",
+        "https://yaro.ua/assets/images/products/1602/detail/5d020ecd18306b1b6f15a9e8e90d51a560e7e67b.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Цукор кокосовий",
+        "Какао-масло",
+        "Кероб",
+        "Насіння амаранту повітряне",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "60",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Coco & Caramel Cookie - це оновлена версія цукерки-бестселера Vegan Wheel. Вона стала ще смачнішою, не втративши своєї поживності і чарівного смаку. Склад цукерки залишився незмінним: тільки натуральні рослинні компоненти без додавання консервантів і рафінованого цукру.\n\nЦукерка складається з 3 неймовірних шарів: кокосове печиво, фінікова карамель і мигдальна паста роблять цукерку Coco &  Caramel Cookie настільки особливою, а унікальну глазур ми виготовляємо з кероба та  використовуємо темперування для додання природного блиску і цільності.\n\nПодача: у наборі 2 цукерки в упаковці flow-pack.\n\nІдеальне поєднання: кажуть, що ця цукерка повністю змінює уявлення про healthy-солодощі. Спробуйте її в поєднанні з улюбленою кавою та відчуйте справжню насолоду.",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248529109,
+      "title": "Набір цукерок \"Coco&amp;Caramel Cookies\"",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1656/small/016195034c69a8b947a2a8985ea3f1687626e6f0.webp",
+        "https://yaro.ua/assets/images/products/1656/small/8a5120facdc938fc39711cc89b1b01e6885902d5.webp",
+        "https://yaro.ua/assets/images/products/1656/small/cbe72e89af35c21788feb6940dd0e65ee51cdcbf.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1656/detail/016195034c69a8b947a2a8985ea3f1687626e6f0.webp",
+        "https://yaro.ua/assets/images/products/1656/detail/8a5120facdc938fc39711cc89b1b01e6885902d5.webp",
+        "https://yaro.ua/assets/images/products/1656/detail/cbe72e89af35c21788feb6940dd0e65ee51cdcbf.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Стружка кокосова",
+        "Горіх мигдаль",
+        "Какао-масло",
+        "Кероб",
+        "Горіх кеш`ю",
+        "Сироп топінамбура",
+        "Цукор кокосовий",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "100",
+      "amount": "2",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Неймовірна цукерка-бестселер YARO в новому форматі!\n\nСолодка повітряна пудра в поєднанні з насиченим кокосовим смаком і хрусткими горішками всередині, дарують незабутню смакову насолоду.\n\nІндивідуальна flow-pack упаковка дозволила продовжити термін зберігання і зберегти незабутній смак.\n\nВ наборі 4 цукерки.",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248592830,
+      "title": "Набір цукерок \"Coco Bar\" ",
+      "price": "129",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1674/small/b088c83a10bf470f9a7e90663d2f8a02457968be.webp",
+        "https://yaro.ua/assets/images/products/1674/small/a94c1f4db8483771a0b25e350f8ce79c52ad52dd.webp",
+        "https://yaro.ua/assets/images/products/1674/small/a89dcd25f5f6c7ca8ec6542b0019f3277d890f7a.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1674/detail/b088c83a10bf470f9a7e90663d2f8a02457968be.webp",
+        "https://yaro.ua/assets/images/products/1674/detail/a94c1f4db8483771a0b25e350f8ce79c52ad52dd.webp",
+        "https://yaro.ua/assets/images/products/1674/detail/a89dcd25f5f6c7ca8ec6542b0019f3277d890f7a.webp"
+      ],
+      "inside": [
+        "Молоко кокосове сухе",
+        "Стружка кокосова",
+        "Горіх фундук",
+        "Сироп топінамбура",
+        "Горіх мигдаль",
+        "Ксилітол",
+        "Масло кокосове",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Мигдалева версія нашої класичної цукерки.\n\nЯк і звичайна Солона карамель, ця цукерка доводить, що для створення унікального смаку досить мінімуну інгредієнтів. Ні крихти цукру, тільки фінікова карамель і мигдалева паста, вишуканий смак якої ні з чим не сплутати, і глазур з кероба. Ми також додали у склад суперфуд — соняшниковий лецитин і щіпку рожевої гімалайської солі, щоб підкреслити солодко-солонуватий смак.",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248621698,
+      "title": "Набір цукерок \"Солона карамель мигдаль\"",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1569/small/c8cd54dbee62893969446a7aa6998c932f706b10.webp",
+        "https://yaro.ua/assets/images/products/1569/small/304ab1918e16badf7202231157070bc7d4160080.webp",
+        "https://yaro.ua/assets/images/products/1569/small/c5ef445bfceb433b16a8869cd2990c4acc7964f7.webp",
+        "https://yaro.ua/assets/images/products/1569/small/b2334c7fa21dd6395598af5ecef0b0c0c6e68603.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1569/detail/c8cd54dbee62893969446a7aa6998c932f706b10.webp",
+        "https://yaro.ua/assets/images/products/1569/detail/304ab1918e16badf7202231157070bc7d4160080.webp",
+        "https://yaro.ua/assets/images/products/1569/detail/c5ef445bfceb433b16a8869cd2990c4acc7964f7.webp",
+        "https://yaro.ua/assets/images/products/1569/detail/b2334c7fa21dd6395598af5ecef0b0c0c6e68603.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Горіх мигдаль",
+        "Какао-масло",
+        "Кероб",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Про цю цукерку-бестселер ходять легенди! Хтось хвалить ніжний шар арахісової пасти, хтось без розуму від фінікової карамелі, інші обожнюють її за бездоганний склад. А ми і не сперечаємося, адже Солона Карамель – це класика, яка ніколи не набридає. Ми поєднували прості і натуральні інгредієнти, щоб отримати неймовірний солонувато-солодкий смак. \n\nПростота складу: всього 6 компонентів, без жодних підсолоджувачів. Солодкий смак цукерці надає натуральний фінік, а глазур створена з супефруда кероба. \n\nУпаковка: в наборі 4 цукерки в окремих flow-pack упаковках. \n\nІдеальне поєднання: здається, що смак цієї цукерки досконалий і його вже нічим не доповнити, але ви спробуйте її в поєднанні з гречаним чаєм – суцільне задоволення без відчуття провини!",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248657454,
+      "title": "Набір цукерок \"Солона карамель\"",
+      "price": "109",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1560/small/80cd511fd60f6112874f8621ce92d8dd5b1892f4.webp",
+        "https://yaro.ua/assets/images/products/1560/small/49837f92faa59567120c0df77ea342d0c22bce51.webp",
+        "https://yaro.ua/assets/images/products/1560/small/1f9819ae0a9431917db967598e6654fe1074ce57.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1560/detail/80cd511fd60f6112874f8621ce92d8dd5b1892f4.webp",
+        "https://yaro.ua/assets/images/products/1560/detail/49837f92faa59567120c0df77ea342d0c22bce51.webp",
+        "https://yaro.ua/assets/images/products/1560/detail/1f9819ae0a9431917db967598e6654fe1074ce57.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Ядра арахісу",
+        "Какао-масло",
+        "Кероб",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Обережно, ця цукерка викликає залежність! Вона підкорює своїм бездоганним смаком з першого знайомства, а її ніжну текстуру не сплутати ні з якою іншою цукеркою. Складно повірити, що ця цукерка не містить цукру, адже смакові рецептори від неї в повному захваті! \n\n3 чарівних шари: фінікова нуга з шматочками арахісу, тягуча кокосова карамель, ніжна горіхова паста і все це в глазурі з керобу. \n\nУпаковка: в наборі 4 цукерки в окремих flow-pack упаковках. \n\nІдеальне поєднання: ми знаємо, як складно встояти перед спокусою, коли хочеться чогось солодкого тут і зараз. Вибирайте Old school peanut в поєднанні з Імбирним латте або цитрусовим чаєм і насолоджуйтеся цим бездоганним дуетом без шкоди для фігури! ",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248691319,
+      "title": "Набір цукерок \"Old School Peanut\" ",
+      "price": "129",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1626/small/c9ef59e696c233a76814daf6a8dc9990dd1b90c0.webp",
+        "https://yaro.ua/assets/images/products/1626/small/7b59a1b4ba8d7deb6d687fd36d8fb4c8556989c9.webp",
+        "https://yaro.ua/assets/images/products/1626/small/02148e5014051b0229ddd7b3bbad4a623fe0a28e.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1626/detail/c9ef59e696c233a76814daf6a8dc9990dd1b90c0.webp",
+        "https://yaro.ua/assets/images/products/1626/detail/7b59a1b4ba8d7deb6d687fd36d8fb4c8556989c9.webp",
+        "https://yaro.ua/assets/images/products/1626/detail/02148e5014051b0229ddd7b3bbad4a623fe0a28e.webp"
+      ],
+      "inside": [
+        "Кокосове молоко",
+        "Фінік",
+        "Горіх кеш`ю",
+        "Кероб",
+        "Ядра арахісу",
+        "Екстракт яблучного соку концентрований",
+        "Цукор кокосовий",
+        "Какао-масло",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Цей набір стане ідеальним подарунком, який підкреслить вашу турботу і подарує радість близьким. В Sweet Box зібрані всі солодкі бестселери YARO, тому ви зможете насолодитися улюбленими цукерками в одному наборі. \n\nСклад:\n\nСолона карамель — 1 шт\n\nСолона карамель мигдаль — 1 шт \n\nCoco Bar — 1шт  \n\nOld School Peanut — 1 шт  \n\nCoco&Caramel — 1 шт  \n\nCoco&Caramel Cookie — 1 шт  \n\nПечиво Choco Cookies — 2 шт  \n\nПечиво Вівсяне  Мигдаль — 2 шт  \n\nПечиво Вівсяне Choco drops — 2 шт  \n\nПечиво Вівсяне Classic — 2 шт",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248755820,
+      "title": "Набір Sweet box",
+      "price": "450",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1653/small/f6f2ab4465a1aeaf85c5d4c640404e450bd57163.webp",
+        "https://yaro.ua/assets/images/products/1653/small/34e5fbf8b42ea998e1d0cdb36be5a253804181fa.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1653/detail/f6f2ab4465a1aeaf85c5d4c640404e450bd57163.webp",
+        "https://yaro.ua/assets/images/products/1653/detail/34e5fbf8b42ea998e1d0cdb36be5a253804181fa.webp"
+      ],
+      "inside": [
+        "Цукерка Coco Bar",
+        "Цукерка Old School Peanut",
+        "Цукерка Coco & Caramel Cookie",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне choco drops",
+        "Цукерка Амарант",
+        "Печиво Caramel Crush Cookie",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "277",
+      "amount": "10",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248787600,
+      "title": "Набір цукерок - Marzipan heart",
+      "price": "259",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2830/small/c5054576c06cec08862ccc17e66c8eb2357d4f9f.webp",
+        "https://yaro.ua/assets/images/products/2830/small/162d6cb59a359a86b221f920e29b5a6b944360c3.webp",
+        "https://yaro.ua/assets/images/products/2830/small/3d7158f3071b2d47606c870dbeaf7f871eaee159.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2830/detail/c5054576c06cec08862ccc17e66c8eb2357d4f9f.webp",
+        "https://yaro.ua/assets/images/products/2830/detail/162d6cb59a359a86b221f920e29b5a6b944360c3.webp",
+        "https://yaro.ua/assets/images/products/2830/detail/3d7158f3071b2d47606c870dbeaf7f871eaee159.webp"
+      ],
+      "inside": [
+        "Апельсин",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Какао терте",
+        "Какао-масло",
+        "Натуральний екстракт ванілі",
+        "Пластівці мигдалеві"
+      ],
+      "weight": "160",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248813750,
+      "title": "Набір цукерок - Energy Ball Hazelnut",
+      "price": "149",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2785/small/b9b5a56625844034e21504dd82acc51318ed7bc6.webp",
+        "https://yaro.ua/assets/images/products/2785/small/7d196e216955d37dd1fd90a7dd9c97ae001004dc.webp",
+        "https://yaro.ua/assets/images/products/2785/small/881fe85fe9d821202f9d0c649e568bd6af10ebba.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2785/detail/b9b5a56625844034e21504dd82acc51318ed7bc6.webp",
+        "https://yaro.ua/assets/images/products/2785/detail/7d196e216955d37dd1fd90a7dd9c97ae001004dc.webp",
+        "https://yaro.ua/assets/images/products/2785/detail/881fe85fe9d821202f9d0c649e568bd6af10ebba.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок",
+        "Какао-масло",
+        "Кокосова стружка"
+      ],
+      "weight": "102",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248846604,
+      "title": "Набір цукерок \"Double Cocoa\" ",
+      "price": "119",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2727/small/0ab2cf3a7932568946a4dc3062deffb1c2436527.webp",
+        "https://yaro.ua/assets/images/products/2727/small/b2fcb452179874a533468cea1bfb082f8567fd8a.webp",
+        "https://yaro.ua/assets/images/products/2727/small/e5510ea8da8f09745079c3945911c88981249689.webp",
+        "https://yaro.ua/assets/images/products/2727/small/9abc7a6bef6f5b4fbd246140bd172ec8e8523479.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2727/detail/0ab2cf3a7932568946a4dc3062deffb1c2436527.webp",
+        "https://yaro.ua/assets/images/products/2727/detail/b2fcb452179874a533468cea1bfb082f8567fd8a.webp",
+        "https://yaro.ua/assets/images/products/2727/detail/e5510ea8da8f09745079c3945911c88981249689.webp",
+        "https://yaro.ua/assets/images/products/2727/detail/9abc7a6bef6f5b4fbd246140bd172ec8e8523479.webp"
+      ],
+      "inside": [
+        "Горіх кеш`ю",
+        "Горіх фундук",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Молоко кокосове сухе",
+        "Паста кокосова"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248879113,
+      "title": "Набір цукерок - Energy Ball Almond",
+      "price": "229",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2788/small/4fcb4212038854f7a9867afe23c0a883fdfc842c.webp",
+        "https://yaro.ua/assets/images/products/2788/small/fb97054736a60525b3d53caff59c052a7da45287.webp",
+        "https://yaro.ua/assets/images/products/2788/small/789fbf032e28e7b4911a14d3fa329eb064fe88e7.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2788/detail/4fcb4212038854f7a9867afe23c0a883fdfc842c.webp",
+        "https://yaro.ua/assets/images/products/2788/detail/fb97054736a60525b3d53caff59c052a7da45287.webp",
+        "https://yaro.ua/assets/images/products/2788/detail/789fbf032e28e7b4911a14d3fa329eb064fe88e7.webp"
+      ],
+      "inside": [
+        "Горіх мигдаль",
+        "Екстракт яблучного соку концентрований",
+        "Какао-масло",
+        "Кориця мелена"
+      ],
+      "weight": "126",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": true,
+      "available": true,
+      "id": 1674248908900,
+      "title": "Набір Green Box",
+      "price": "1085",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2824/small/22fc307b8e1bf78f11f7f7b5784f46c725840f74.webp",
+        "https://yaro.ua/assets/images/products/2824/small/f0226ade04fa4ac48820458604bef4839d67dbea.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2824/detail/22fc307b8e1bf78f11f7f7b5784f46c725840f74.webp",
+        "https://yaro.ua/assets/images/products/2824/detail/f0226ade04fa4ac48820458604bef4839d67dbea.webp"
+      ],
+      "inside": [
+        "Печиво Caramel Crush Cookie",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне choco drops",
+        "Печиво Вівсяне classic",
+        "Печиво Вівсяне мигдаль",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Coco Bar",
+        "Цукерка Old School Peanut",
+        "Цукерка Амарант",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "557",
+      "amount": "20",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Ви тільки подивіться, як гарно наш Sweet box перевтілився з нагоди новорічних свят! Ззовні він тепер вбраний у святкові візерунки, але це ще не все! Всередині — також довгоочікувані перетворення. Ми додали до складу Sweet box цукерку Амарант та довершене печиво Caramel crush — адже без них скринька наших бестселерів точно не була повною. Sweet box — це увага, любов, турбота та неперевершені смаки в одній симпатичній коробочці. Потіште своїх рідних та друзів таким подарунком напередодні Нового року!",
+      "top": true,
+      "new": false,
+      "available": true,
+      "id": 1674248936233,
+      "title": "Набір Sweet box NY",
+      "price": "450",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2484/small/aab202a2007d14b2e4016e4d2ce825f65a7378cd.webp",
+        "https://yaro.ua/assets/images/products/2484/small/a5c6f96585ecd737ac54146a815aa2a0aa157bb1.webp",
+        "https://yaro.ua/assets/images/products/2484/small/d85232dab438de6d367717c18622620992af80df.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2484/detail/aab202a2007d14b2e4016e4d2ce825f65a7378cd.webp",
+        "https://yaro.ua/assets/images/products/2484/detail/a5c6f96585ecd737ac54146a815aa2a0aa157bb1.webp",
+        "https://yaro.ua/assets/images/products/2484/detail/d85232dab438de6d367717c18622620992af80df.webp"
+      ],
+      "inside": [
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль",
+        "Цукерка Coco Bar",
+        "Цукерка Old School Peanut",
+        "Цукерка Амарант",
+        "Цукерка Coco & Caramel Cookie",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне мигдаль",
+        "Печиво Вівсяне choco drops",
+        "Печиво Caramel Crush Cookie"
+      ],
+      "weight": "277",
+      "amount": "10",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674248992198,
+      "title": "Набір цукерок - Nutty Melon",
+      "price": "209",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2791/small/692230abfe1e7e7a2e0b93a716982caeedd9d18a.webp",
+        "https://yaro.ua/assets/images/products/2791/small/e05b495022034849dfa0189207005697613c1830.webp",
+        "https://yaro.ua/assets/images/products/2791/small/e846ecc41ec84b5767856b60cb21689968c2ca9f.webp",
+        "https://yaro.ua/assets/images/products/2791/small/fb01fa551922f7408cfa6219e54599cbcdb17a84.webp",
+        "https://yaro.ua/assets/images/products/2791/small/575233c4810de9eca73983cc163e5624f6bb75d2.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2791/detail/692230abfe1e7e7a2e0b93a716982caeedd9d18a.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/e05b495022034849dfa0189207005697613c1830.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/e846ecc41ec84b5767856b60cb21689968c2ca9f.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/fb01fa551922f7408cfa6219e54599cbcdb17a84.webp",
+        "https://yaro.ua/assets/images/products/2791/detail/575233c4810de9eca73983cc163e5624f6bb75d2.webp"
+      ],
+      "inside": [
+        "Диня",
+        "Емульгатор Лецитин соняшниковий",
+        "Какао терте",
+        "Какао-масло",
+        "Натуральний екстракт ванілі",
+        "Пластівці вівсяні",
+        "Рожева гімалайська сіль",
+        "Ядра арахісу"
+      ],
+      "weight": "120",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674249037811,
+      "title": "Набір цукерок - Ferrero",
+      "price": "209",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2821/small/91d9ed1fd07719ee284ad17ac2c22e878ab83c52.webp",
+        "https://yaro.ua/assets/images/products/2821/small/7c6af4c8047818b15aa42c4bb957b4a8a972abef.webp",
+        "https://yaro.ua/assets/images/products/2821/small/9f9f69f87a997e7ee7ccc89c38c0584af240180e.webp",
+        "https://yaro.ua/assets/images/products/2821/small/eb0854ad199d600ce7804a249d3e27c513a5e8bc.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2821/detail/91d9ed1fd07719ee284ad17ac2c22e878ab83c52.webp",
+        "https://yaro.ua/assets/images/products/2821/detail/7c6af4c8047818b15aa42c4bb957b4a8a972abef.webp",
+        "https://yaro.ua/assets/images/products/2821/detail/9f9f69f87a997e7ee7ccc89c38c0584af240180e.webp",
+        "https://yaro.ua/assets/images/products/2821/detail/eb0854ad199d600ce7804a249d3e27c513a5e8bc.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Какао терте",
+        "Какао-масло",
+        "Пластівці вівсяні",
+        "Родзинки",
+        "Рожева гімалайська сіль",
+        "Фінік",
+        "Шоколад без цукру"
+      ],
+      "weight": "120",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674249906325,
+      "title": "Хліб спельтовий",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2643/small/e3a9a4b891981040e80cf183f1845b269d38c443.webp",
+        "https://yaro.ua/assets/images/products/2643/small/79d02b45cde64343fb4eeb8bd8d73432c7ce41a5.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2643/detail/e3a9a4b891981040e80cf183f1845b269d38c443.webp",
+        "https://yaro.ua/assets/images/products/2643/detail/79d02b45cde64343fb4eeb8bd8d73432c7ce41a5.webp"
+      ],
+      "inside": [
+        "Борошно спельти",
+        "Вода",
+        "Екстракт яблучного соку концентрований",
+        "Крохмаль кукурудзяний",
+        "Олія виноградних кісточок",
+        "Оцет яблучний",
+        "Псиліум",
+        "Рожева гімалайська сіль",
+        "Сода харчова"
+      ],
+      "weight": "630",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674249966339,
+      "title": "Хліб спельтовий (половинка)",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2646/small/9511c60a980c43e32e3e40e94aca4f69fa0726b2.webp",
+        "https://yaro.ua/assets/images/products/2646/small/79d02b45cde64343fb4eeb8bd8d73432c7ce41a5.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2646/detail/9511c60a980c43e32e3e40e94aca4f69fa0726b2.webp",
+        "https://yaro.ua/assets/images/products/2646/detail/79d02b45cde64343fb4eeb8bd8d73432c7ce41a5.webp"
+      ],
+      "inside": [
+        "Борошно спельти",
+        "Вода",
+        "Екстракт яблучного соку концентрований",
+        "Крохмаль кукурудзяний",
+        "Олія виноградних кісточок",
+        "Оцет яблучний",
+        "Псиліум",
+        "Рожева гімалайська сіль",
+        "Сода харчова"
+      ],
+      "weight": "315",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674250003122,
+      "title": "Набір Мафін chocolate 2 шт",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2664/small/5b74e64b3eaf1e3ffdc7febb3de79a793a41e272.webp",
+        "https://yaro.ua/assets/images/products/2664/small/a6e0b0921a80ca2b058ee6a5662c08a43ead6627.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2664/detail/5b74e64b3eaf1e3ffdc7febb3de79a793a41e272.webp",
+        "https://yaro.ua/assets/images/products/2664/detail/a6e0b0921a80ca2b058ee6a5662c08a43ead6627.webp"
+      ],
+      "inside": [
+        "Апельсин",
+        "Банан",
+        "Борошно спельти",
+        "Вода",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Насіння льону",
+        "Олія виноградних кісточок",
+        "Сироп топінамбура",
+        "Сода харчова",
+        "Сушена вишня",
+        "Цукор кокосовий"
+      ],
+      "weight": "2180",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": true,
+      "id": 1674250099996,
+      "title": "Набір печива - Пісочне",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2749/small/053396e63c4e2e8cdac84e844184c58eedcadff3.webp",
+        "https://yaro.ua/assets/images/products/2749/small/5e2f0a3039f07de1ca929d09112a163ecaef9c42.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2749/detail/053396e63c4e2e8cdac84e844184c58eedcadff3.webp",
+        "https://yaro.ua/assets/images/products/2749/detail/5e2f0a3039f07de1ca929d09112a163ecaef9c42.webp"
+      ],
+      "inside": [
+        "Борошно мигдалеве",
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Крохмаль кукурудзяний",
+        "Ксилітол",
+        "Масло кокосове",
+        "Пластівці вівсяні",
+        "Сода харчова"
+      ],
+      "weight": "105",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250146217,
+      "title": "Набір Vegan Пахлава з арахісом",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2839/small/29d3e2b4f8571c19a0cecc939f18e193b239a05d.webp",
+        "https://yaro.ua/assets/images/products/2839/small/fc2b2b6ee8da6844edcc243ad3d3cc8503643a5b.webp",
+        "https://yaro.ua/assets/images/products/2839/small/935fe0a47f9fbfc66a242ec34568732941948054.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2839/detail/29d3e2b4f8571c19a0cecc939f18e193b239a05d.webp",
+        "https://yaro.ua/assets/images/products/2839/detail/fc2b2b6ee8da6844edcc243ad3d3cc8503643a5b.webp",
+        "https://yaro.ua/assets/images/products/2839/detail/935fe0a47f9fbfc66a242ec34568732941948054.webp"
+      ],
+      "inside": [
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Кокосове молоко",
+        "Крохмаль кукурудзяний",
+        "Олія виноградних кісточок",
+        "Пластівці вівсяні",
+        "Рожева гімалайська сіль",
+        "Сода харчова",
+        "Ядра арахісу"
+      ],
+      "weight": "100",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Спробуйте усі види смачного та корисного печива одразу та оберіть улюблений смак! \n\nSample cookies це три види вівсяного печива, шоколадне печиво з насінням чіа та наша остання новинка — карамельне печиво з яблучним концентратом. Без крихти цукру, без глютену та без докорів сумління.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250174998,
+      "title": "Шоу-бокс печива \"Sample Cookies\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2417/small/da395e1c242b65e4a5130cd4ad4c788bdd65a170.webp",
+        "https://yaro.ua/assets/images/products/2417/small/c9dc42006d0052e4c4d03f1a52220386bf29a00a.webp",
+        "https://yaro.ua/assets/images/products/2417/small/f05d2a8db9bfe8103a27545dc25a7c5439005066.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2417/detail/da395e1c242b65e4a5130cd4ad4c788bdd65a170.webp",
+        "https://yaro.ua/assets/images/products/2417/detail/c9dc42006d0052e4c4d03f1a52220386bf29a00a.webp",
+        "https://yaro.ua/assets/images/products/2417/detail/f05d2a8db9bfe8103a27545dc25a7c5439005066.webp"
+      ],
+      "inside": [
+        "Печиво Вівсяне мигдаль",
+        "Печиво Caramel Crush Cookie",
+        "Печиво Вівсяне choco drops",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне classic"
+      ],
+      "weight": "532",
+      "amount": "14",
+      "category": "Печиво"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250201431,
+      "title": "Набір печива - Пісочне печиво з мармеладом",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2782/small/894fb46804405c1288123a97952e071f6bfb56f5.webp",
+        "https://yaro.ua/assets/images/products/2782/small/3ce3a18c78a33ceae03e868c2189a2df0fb06428.webp",
+        "https://yaro.ua/assets/images/products/2782/small/9492da3dfb41110ed89a7ba80a0ae167735e87f8.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2782/detail/894fb46804405c1288123a97952e071f6bfb56f5.webp",
+        "https://yaro.ua/assets/images/products/2782/detail/3ce3a18c78a33ceae03e868c2189a2df0fb06428.webp",
+        "https://yaro.ua/assets/images/products/2782/detail/9492da3dfb41110ed89a7ba80a0ae167735e87f8.webp"
+      ],
+      "inside": [
+        "Борошно мигдалеве",
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Крохмаль кукурудзяний",
+        "Ксилітол",
+        "Лимон",
+        "Масло кокосове",
+        "Пластівці вівсяні",
+        "Сода харчова"
+      ],
+      "weight": "110",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250235915,
+      "title": "Набір Vegan Пахлава з арахісом",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2839/small/29d3e2b4f8571c19a0cecc939f18e193b239a05d.webp",
+        "https://yaro.ua/assets/images/products/2839/small/fc2b2b6ee8da6844edcc243ad3d3cc8503643a5b.webp",
+        "https://yaro.ua/assets/images/products/2839/small/935fe0a47f9fbfc66a242ec34568732941948054.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2839/detail/29d3e2b4f8571c19a0cecc939f18e193b239a05d.webp",
+        "https://yaro.ua/assets/images/products/2839/detail/fc2b2b6ee8da6844edcc243ad3d3cc8503643a5b.webp",
+        "https://yaro.ua/assets/images/products/2839/detail/935fe0a47f9fbfc66a242ec34568732941948054.webp"
+      ],
+      "inside": [
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Кокосове молоко",
+        "Крохмаль кукурудзяний",
+        "Олія виноградних кісточок",
+        "Пластівці вівсяні",
+        "Рожева гімалайська сіль",
+        "Сода харчова",
+        "Ядра арахісу"
+      ],
+      "weight": "100",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250379634,
+      "title": "Набір цукерок Marzipan heart",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2818/small/8a336c61a42b8193d2ccce0279aee8a3ade30f7d.webp",
+        "https://yaro.ua/assets/images/products/2818/small/7f57d92fdacfbe29268c8ad03de9bf2188ebe377.webp",
+        "https://yaro.ua/assets/images/products/2818/small/184cc5fce981e1f1e604dda77c9cc4baf0920aa9.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2818/detail/8a336c61a42b8193d2ccce0279aee8a3ade30f7d.webp",
+        "https://yaro.ua/assets/images/products/2818/detail/7f57d92fdacfbe29268c8ad03de9bf2188ebe377.webp",
+        "https://yaro.ua/assets/images/products/2818/detail/184cc5fce981e1f1e604dda77c9cc4baf0920aa9.webp"
+      ],
+      "inside": [
+        "Апельсин",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Какао терте",
+        "Какао-масло",
+        "Натуральний екстракт ванілі",
+        "Пластівці мигдалеві"
+      ],
+      "weight": "240",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250399636,
+      "title": "Набір печива - Пісочне печиво з мармеладом",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2782/small/894fb46804405c1288123a97952e071f6bfb56f5.webp",
+        "https://yaro.ua/assets/images/products/2782/small/3ce3a18c78a33ceae03e868c2189a2df0fb06428.webp",
+        "https://yaro.ua/assets/images/products/2782/small/9492da3dfb41110ed89a7ba80a0ae167735e87f8.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2782/detail/894fb46804405c1288123a97952e071f6bfb56f5.webp",
+        "https://yaro.ua/assets/images/products/2782/detail/3ce3a18c78a33ceae03e868c2189a2df0fb06428.webp",
+        "https://yaro.ua/assets/images/products/2782/detail/9492da3dfb41110ed89a7ba80a0ae167735e87f8.webp"
+      ],
+      "inside": [
+        "Борошно мигдалеве",
+        "Борошно рисове",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Крохмаль кукурудзяний",
+        "Ксилітол",
+        "Лимон",
+        "Масло кокосове",
+        "Пластівці вівсяні",
+        "Сода харчова"
+      ],
+      "weight": "110",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250419792,
+      "title": "Торт Чізкейк чорничний",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2797/small/29bb1278bb0f62ef905a3ecedd23c47817adbe66.webp",
+        "https://yaro.ua/assets/images/products/2797/small/28c34ce857d40a09388b2f64a80d2dd06c7787ee.webp",
+        "https://yaro.ua/assets/images/products/2797/small/a5902e11b7b0669eb80f9e532fe777d891d74d7b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2797/detail/29bb1278bb0f62ef905a3ecedd23c47817adbe66.webp",
+        "https://yaro.ua/assets/images/products/2797/detail/28c34ce857d40a09388b2f64a80d2dd06c7787ee.webp",
+        "https://yaro.ua/assets/images/products/2797/detail/a5902e11b7b0669eb80f9e532fe777d891d74d7b.webp"
+      ],
+      "inside": [
+        "Боб ванільний",
+        "Борошно рисове",
+        "Горіх мигдаль",
+        "Екстракт яблучного соку концентрований",
+        "Йогурт кокосовий",
+        "Крохмаль з тапіоки",
+        "Крохмаль кукурудзяний",
+        "Лимон",
+        "Масло кокосове",
+        "Чорниця"
+      ],
+      "weight": "185",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674250440307,
+      "title": "Набір цукерок \"Солона Карамель Classic\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2794/small/d875da54f2773eec97e826de66a64772e5649aa9.webp",
+        "https://yaro.ua/assets/images/products/2794/small/6e624761be552958a76bd8b24aa48b76ca13a46f.webp",
+        "https://yaro.ua/assets/images/products/2794/small/f530245170d7bacc360ec96a5465b4646d941d6b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2794/detail/d875da54f2773eec97e826de66a64772e5649aa9.webp",
+        "https://yaro.ua/assets/images/products/2794/detail/6e624761be552958a76bd8b24aa48b76ca13a46f.webp",
+        "https://yaro.ua/assets/images/products/2794/detail/f530245170d7bacc360ec96a5465b4646d941d6b.webp"
+      ],
+      "inside": [
+        "Емульгатор Лецитин соняшниковий",
+        "Какао-масло",
+        "Кероб",
+        "Масло кокосове",
+        "Паста арахісова",
+        "Рожева гімалайська сіль",
+        "Фінік"
+      ],
+      "weight": "162",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Всім відомий шоколадний десерт став ще смачніше і корисніше на кухні YARO! У це неможливо повірити, що в складі торта немає білої муки, рафінованого цукру, молочних продуктів і яєць.\n\nНасичений шоколадний смак, пружні коржі з спельтового борошна просочені ніжним кремом на основі кокосових вершків. Цей торт просто тане в роті і змушує забути про все навколо. ",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250457811,
+      "title": "Торт \"Vegan Празький\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1623/small/959b4bf477b0b08e51307eba38a3c1423315e8a4.webp",
+        "https://yaro.ua/assets/images/products/1623/small/ccd41bcc31b55bcd0094522fffab3a078d2ea983.webp",
+        "https://yaro.ua/assets/images/products/1623/small/b3a0a1042a75daed2f0bc0bfccff1055086e18fc.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1623/detail/959b4bf477b0b08e51307eba38a3c1423315e8a4.webp",
+        "https://yaro.ua/assets/images/products/1623/detail/ccd41bcc31b55bcd0094522fffab3a078d2ea983.webp",
+        "https://yaro.ua/assets/images/products/1623/detail/b3a0a1042a75daed2f0bc0bfccff1055086e18fc.webp"
+      ],
+      "inside": [
+        "Кокосове молоко",
+        "Йогурт кокосовий",
+        "Сироп топінамбура",
+        "Борошно спельти",
+        "Цукор кокосовий",
+        "Апельсин",
+        "Какао порошок",
+        "Масло кокосове",
+        "Ксилітол",
+        "Насіння льону",
+        "Лимон",
+        "Натуральний екстракт ванілі"
+      ],
+      "weight": "145",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Торт, який буквально тане в роті. Безліч найтонших шарів повітряного, але пружного тіста з спельтового борошна. \n\nСпельта — одна з небагатьох культур, яка вирощується без додавання мінеральних добрив, тому є екологічно чистою. Крім того, вона містить цілих 18 амінокислот, яких немає в продуктах тваринного походження і є рекордсменом серед всіх зернових за вмістом білка, амінокислот і клітковини. \n\nТорт просочений легким кокосовим кремом, прикрашений крихтою і фісташками. \n\nУ наборі 6 шматочків.",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250517677,
+      "title": "Торт Vegan Наполеон",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1917/small/91d0c733c0e732251ad32f6a237b6b393cfe8529.webp",
+        "https://yaro.ua/assets/images/products/1917/small/2c2022469c121656c4193c166495b16eed770cde.webp",
+        "https://yaro.ua/assets/images/products/1917/small/355fe5b5bb8ebacdb2d7cdb5eb5cf08940b21625.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1917/detail/91d0c733c0e732251ad32f6a237b6b393cfe8529.webp",
+        "https://yaro.ua/assets/images/products/1917/detail/2c2022469c121656c4193c166495b16eed770cde.webp",
+        "https://yaro.ua/assets/images/products/1917/detail/355fe5b5bb8ebacdb2d7cdb5eb5cf08940b21625.webp"
+      ],
+      "inside": [
+        "Вода мінеральна",
+        "Кокосове молоко",
+        "Борошно спельти",
+        "Цукор кокосовий",
+        "Горіх мигдаль",
+        "Олія виноградних кісточок",
+        "Масло кокосове",
+        "Какао-масло",
+        "Лайм",
+        "Натуральний екстракт ванілі",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "135",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Улюблені булочки з корицею, але у кращих традиціях хелсі-випічки. Наші сіннабони зроблені зі спельтового борошна, а начинка містить усього три інгредієнти: пасту з фініків, корицю та кокосовий цукор. Радимо трішки підігріти сіннабон перед вживанням, так - ще смачніше. Добре доповнить смак сіннабону густий рослинний йогурт. \n\nЗамовляйте з доставкою Новою Поштою у будь-який куточок України.\nСмакуйте з користю та без докорів сумління.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250557691,
+      "title": "Сіннабон з корицею",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2379/small/539718c87a2343395faa60c4005fd07af5b03005.webp",
+        "https://yaro.ua/assets/images/products/2379/small/ef70166976bac6862e35561ea3d649ccf471ddd2.webp",
+        "https://yaro.ua/assets/images/products/2379/small/bec91333ce150f0303f654abf51ac85251ef54e1.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2379/detail/539718c87a2343395faa60c4005fd07af5b03005.webp",
+        "https://yaro.ua/assets/images/products/2379/detail/ef70166976bac6862e35561ea3d649ccf471ddd2.webp",
+        "https://yaro.ua/assets/images/products/2379/detail/bec91333ce150f0303f654abf51ac85251ef54e1.webp"
+      ],
+      "inside": [
+        "Борошно спельти",
+        "Напій соєвий",
+        "Цукор кокосовий",
+        "Фінік",
+        "Масло кокосове",
+        "Какао порошок Extra Brute",
+        "Кориця мелена",
+        "Псиліум",
+        "Крохмаль кукурудзяний",
+        "Лимон",
+        "Сода харчова",
+        "Лимонна кислота",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "135",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250585865,
+      "title": "Пиріжки з вишнями",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2649/small/1851891085535302bd04ecabef0f56ee963c0d81.webp",
+        "https://yaro.ua/assets/images/products/2649/small/b1bfedf08770a39cedd254171f32a395262fc6ac.webp",
+        "https://yaro.ua/assets/images/products/2649/small/267d6039bacc98b51e5141da41dd343bf79d64a6.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2649/detail/1851891085535302bd04ecabef0f56ee963c0d81.webp",
+        "https://yaro.ua/assets/images/products/2649/detail/b1bfedf08770a39cedd254171f32a395262fc6ac.webp",
+        "https://yaro.ua/assets/images/products/2649/detail/267d6039bacc98b51e5141da41dd343bf79d64a6.webp"
+      ],
+      "inside": [
+        "Борошно спельти",
+        "Вишня",
+        "Вода",
+        "Екстракт яблучного соку концентрований",
+        "Крохмаль кукурудзяний",
+        "Напій соєвий",
+        "Олія виноградних кісточок",
+        "Оцет яблучний",
+        "Псиліум",
+        "Рожева гімалайська сіль",
+        "Сода харчова",
+        "Цукор кокосовий"
+      ],
+      "weight": "90",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "На нашу думку це — ідеальний варіант здорового та збалансованого сніданку. Кранч з безглютенових вівсяних пластівців, легкий, але багатий білком та пробіотиками, соєвий йогурт та щедрий шар стиглої вишні — що ще потрібно для вдалого початку дня? \n\nПомірно солодкий завдяки натуральним підсолоджувачам — сиропу топінамбура та кокосовому цукру, ситний, але не обтяжуючий, Вівсяний кранч вишня&йогурт не залишить вас байдужими.",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250612652,
+      "title": "Вівсяний Кранч Вишня &amp; Йогурт ",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1950/small/fd22ad8177194db9aeb6e4433a9c443be9ab0400.webp",
+        "https://yaro.ua/assets/images/products/1950/small/1d0c499922ede621113d383b87bbccb7c601cc10.webp",
+        "https://yaro.ua/assets/images/products/1950/small/a14542a16c614bdd66bd2496a23d4d90eb0a2f7c.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1950/detail/fd22ad8177194db9aeb6e4433a9c443be9ab0400.webp",
+        "https://yaro.ua/assets/images/products/1950/detail/1d0c499922ede621113d383b87bbccb7c601cc10.webp",
+        "https://yaro.ua/assets/images/products/1950/detail/a14542a16c614bdd66bd2496a23d4d90eb0a2f7c.webp"
+      ],
+      "inside": [
+        "Йогурт соєвий sojade",
+        "Вишня",
+        "Пластівці вівсяні",
+        "Екстракт яблучного соку концентрований",
+        "Цукор кокосовий",
+        "Кокосове молоко",
+        "Крохмаль кукурудзяний",
+        "Масло кокосове",
+        "Олія оливкова",
+        "Насіння льону",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "290",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250659208,
+      "title": "Пиріжки з капустою",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2661/small/afad118fbb7646bc75311fefa3a40aa5be649b95.webp",
+        "https://yaro.ua/assets/images/products/2661/small/136da836b49b93b2925614cae9583793caa4a55e.webp",
+        "https://yaro.ua/assets/images/products/2661/small/8a01de82a9496d6e4f5ba60a415dcc51306a54f9.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2661/detail/afad118fbb7646bc75311fefa3a40aa5be649b95.webp",
+        "https://yaro.ua/assets/images/products/2661/detail/136da836b49b93b2925614cae9583793caa4a55e.webp",
+        "https://yaro.ua/assets/images/products/2661/detail/8a01de82a9496d6e4f5ba60a415dcc51306a54f9.webp"
+      ],
+      "inside": [
+        "Борошно спельти",
+        "Вода",
+        "Екстракт яблучного соку концентрований",
+        "Капуста",
+        "Коріандр",
+        "Крохмаль кукурудзяний",
+        "Морква",
+        "Напій соєвий",
+        "Олія виноградних кісточок",
+        "Оцет яблучний",
+        "Паприка копчена",
+        "Псиліум",
+        "Рожева гімалайська сіль",
+        "Сода харчова",
+        "Соус соєвий",
+        "Цибуля ріпчаста"
+      ],
+      "weight": "95",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Зустрічайте найшоколаднішу цукерку YARO - Hazelnut in double cocoa.\n\nЇї смак не сплутати з іншими нашими солодощами: насичена шоколадна глазур, під якою захований цілий горішок, покрита тертим фундуком.\n\nЗа ідеальний баланс солодкого смаку відповідає суперфуд сироп топінамбура. \n\nВ наборі 6 цукерок.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250686355,
+      "title": "Набір цукерок \"Double cocoa\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1695/small/d716bc4ce73641c0560e7d51cd324bbe8a1fd5d0.webp",
+        "https://yaro.ua/assets/images/products/1695/small/1e1b3d2c72986f649bf68ac5980c6f1dafbdcfd0.webp",
+        "https://yaro.ua/assets/images/products/1695/small/51e60ecf91c48ac0e4a2208479b1cfa4ede60dfb.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1695/detail/d716bc4ce73641c0560e7d51cd324bbe8a1fd5d0.webp",
+        "https://yaro.ua/assets/images/products/1695/detail/1e1b3d2c72986f649bf68ac5980c6f1dafbdcfd0.webp",
+        "https://yaro.ua/assets/images/products/1695/detail/51e60ecf91c48ac0e4a2208479b1cfa4ede60dfb.webp"
+      ],
+      "inside": [
+        "Какао-масло",
+        "Сироп топінамбура",
+        "Какао терте",
+        "Горіх фундук",
+        "Горіх кеш`ю",
+        "Паста кокосова",
+        "Какао порошок Extra Brute",
+        "Молоко кокосове сухе",
+        "Натуральний екстракт ванілі"
+      ],
+      "weight": "120",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Використовуємо Суперфуд в потрібних нормах, адже таку добавку, як насіння Чіа, не можна приймати безконтрольно.\nУ складі манго, а його користь неоціненна в лікуванні нервових розладів і виходу з депресивних станів.\nКористь манго обумовлена містяться в ньому вітамінами групи A, B, D, C і E.\nЯк підсолоджувач використовуємо натуральний сироп топінамбура з низьким глікемічним індексом (12-15).",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250723603,
+      "title": "Чіа пудинг Манго",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1845/small/bc3629ae3253c967ba16d42efe9fd2b27a02e344.webp",
+        "https://yaro.ua/assets/images/products/1845/small/f804a748f358d573307ea3ef28c711095d117e1f.webp",
+        "https://yaro.ua/assets/images/products/1845/small/4b8f36cf6eb45e6c47298a732f48e6c9a960710f.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1845/detail/bc3629ae3253c967ba16d42efe9fd2b27a02e344.webp",
+        "https://yaro.ua/assets/images/products/1845/detail/f804a748f358d573307ea3ef28c711095d117e1f.webp",
+        "https://yaro.ua/assets/images/products/1845/detail/4b8f36cf6eb45e6c47298a732f48e6c9a960710f.webp"
+      ],
+      "inside": [
+        "Рожева гімалайська сіль",
+        "Манго",
+        "Горіх мигдаль",
+        "Вода",
+        "Насіння чіа",
+        "Сироп топінамбура"
+      ],
+      "weight": "270",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250754716,
+      "title": "Подарунковий Набір - YARO Адвент Календар",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2833/small/bf4428d9407334dee37b0f01d64da547bf8c66fb.webp",
+        "https://yaro.ua/assets/images/products/2833/small/92f972aeedd75a0c55483973c3dc812c038f33aa.webp",
+        "https://yaro.ua/assets/images/products/2833/small/61c77f538f4619c96387f3117146fbf6bff43aca.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2833/detail/bf4428d9407334dee37b0f01d64da547bf8c66fb.webp",
+        "https://yaro.ua/assets/images/products/2833/detail/92f972aeedd75a0c55483973c3dc812c038f33aa.webp",
+        "https://yaro.ua/assets/images/products/2833/detail/61c77f538f4619c96387f3117146fbf6bff43aca.webp"
+      ],
+      "inside": [
+        "Печиво Caramel Crush Cookie",
+        "Печиво Вівсяне choco drops",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Coco Bar",
+        "Цукерка Old School Peanut",
+        "Цукерка Амарант",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "348",
+      "amount": "14",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250784773,
+      "title": "Набір Sweet box green",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2827/small/ff416f2a5f301922860295b576658896c00042b7.webp",
+        "https://yaro.ua/assets/images/products/2827/small/eacbef1b6516cf2a989147c7ff92b4e0825a1723.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2827/detail/ff416f2a5f301922860295b576658896c00042b7.webp",
+        "https://yaro.ua/assets/images/products/2827/detail/eacbef1b6516cf2a989147c7ff92b4e0825a1723.webp"
+      ],
+      "inside": [
+        "Печиво Caramel Crush Cookie",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне choco drops",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Coco Bar",
+        "Цукерка Old School Peanut",
+        "Цукерка Амарант",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "277",
+      "amount": "10",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250820574,
+      "title": "Набір цукерок Marzipan heart",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2818/small/8a336c61a42b8193d2ccce0279aee8a3ade30f7d.webp",
+        "https://yaro.ua/assets/images/products/2818/small/7f57d92fdacfbe29268c8ad03de9bf2188ebe377.webp",
+        "https://yaro.ua/assets/images/products/2818/small/184cc5fce981e1f1e604dda77c9cc4baf0920aa9.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2818/detail/8a336c61a42b8193d2ccce0279aee8a3ade30f7d.webp",
+        "https://yaro.ua/assets/images/products/2818/detail/7f57d92fdacfbe29268c8ad03de9bf2188ebe377.webp",
+        "https://yaro.ua/assets/images/products/2818/detail/184cc5fce981e1f1e604dda77c9cc4baf0920aa9.webp"
+      ],
+      "inside": [
+        "Апельсин",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Какао терте",
+        "Какао-масло",
+        "Натуральний екстракт ванілі",
+        "Пластівці мигдалеві"
+      ],
+      "weight": "240",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250842167,
+      "title": "Подарункова коробка «YARO Green Box»",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2776/small/88df5241f20f198fda4469d6f292575db819faf3.webp",
+        "https://yaro.ua/assets/images/products/2776/small/0008b60df1ae04af1c3ba13cf0c717e7d20f2884.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2776/detail/88df5241f20f198fda4469d6f292575db819faf3.webp",
+        "https://yaro.ua/assets/images/products/2776/detail/0008b60df1ae04af1c3ba13cf0c717e7d20f2884.webp"
+      ],
+      "inside": [
+        "Печиво Caramel Crush Cookie",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне choco drops",
+        "Печиво Вівсяне classic",
+        "Печиво Вівсяне мигдаль",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Coco Bar",
+        "Цукерка Old School Peanut",
+        "Цукерка Амарант",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "519",
+      "amount": "21",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674250862064,
+      "title": "Шоу-бокс цукерок \"Double Cocoa\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2730/small/32bb1130d7573fc39762142d7eb7e50724aeb88e.webp",
+        "https://yaro.ua/assets/images/products/2730/small/b2fcb452179874a533468cea1bfb082f8567fd8a.webp",
+        "https://yaro.ua/assets/images/products/2730/small/9abc7a6bef6f5b4fbd246140bd172ec8e8523479.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2730/detail/32bb1130d7573fc39762142d7eb7e50724aeb88e.webp",
+        "https://yaro.ua/assets/images/products/2730/detail/b2fcb452179874a533468cea1bfb082f8567fd8a.webp",
+        "https://yaro.ua/assets/images/products/2730/detail/9abc7a6bef6f5b4fbd246140bd172ec8e8523479.webp"
+      ],
+      "inside": [
+        "Горіх кеш`ю",
+        "Горіх фундук",
+        "Екстракт яблучного соку концентрований",
+        "Какао порошок Extra Brute",
+        "Какао терте",
+        "Какао-масло",
+        "Молоко кокосове сухе",
+        "Паста кокосова"
+      ],
+      "weight": "432",
+      "amount": "24",
+      "category": "Цукерки"
+    },
+    {
+      "description": "",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674250882673,
+      "title": "Набір цукерок \"Солона Карамель Classic\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2794/small/d875da54f2773eec97e826de66a64772e5649aa9.webp",
+        "https://yaro.ua/assets/images/products/2794/small/6e624761be552958a76bd8b24aa48b76ca13a46f.webp",
+        "https://yaro.ua/assets/images/products/2794/small/f530245170d7bacc360ec96a5465b4646d941d6b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2794/detail/d875da54f2773eec97e826de66a64772e5649aa9.webp",
+        "https://yaro.ua/assets/images/products/2794/detail/6e624761be552958a76bd8b24aa48b76ca13a46f.webp",
+        "https://yaro.ua/assets/images/products/2794/detail/f530245170d7bacc360ec96a5465b4646d941d6b.webp"
+      ],
+      "inside": [
+        "Емульгатор Лецитин соняшниковий",
+        "Какао-масло",
+        "Кероб",
+        "Масло кокосове",
+        "Паста арахісова",
+        "Рожева гімалайська сіль",
+        "Фінік"
+      ],
+      "weight": "162",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Спробуйте усі види смачних та корисних цукерок одразу та оберіть улюблений смак! \n\nSample candies це всі бестселери YARO у флоу-паках: 21 цукерка без білого цукру, глютену, лактози та докорів сумління. Тільки найкращі рослинні інгредієнти, горіхи та суперфуди. Sample candies - найкращий вибір для першого знайомства з цукерками YARO  або можливість придбати усе улюблене за раз.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250905982,
+      "title": "Шоу-бокс цукерок \"Sample Candies\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2420/small/39bb73962a1cc8841c07612d36b902d031884ebd.webp",
+        "https://yaro.ua/assets/images/products/2420/small/7ed9c579543365ba7d7f84c10449471d7712dc75.webp",
+        "https://yaro.ua/assets/images/products/2420/small/512c8ee414dfbaa9bc9b7a4d13a9c927d52a7aca.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2420/detail/39bb73962a1cc8841c07612d36b902d031884ebd.webp",
+        "https://yaro.ua/assets/images/products/2420/detail/7ed9c579543365ba7d7f84c10449471d7712dc75.webp",
+        "https://yaro.ua/assets/images/products/2420/detail/512c8ee414dfbaa9bc9b7a4d13a9c927d52a7aca.webp"
+      ],
+      "inside": [
+        "Цукерка Old School Peanut",
+        "Цукерка Coco Bar",
+        "Цукерка Coco&Caramel",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Амарант",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "451",
+      "amount": "21",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Кохання робить все можливим, а YARO робить корисні солодощі можливими. Солодкий святковий набір бестселерів YARO до Дня Святого Валентина: 20 флоу-паків з хелсі-цукерками та печивом без глютену. Найякісніші рослинні інгредієнти, натуральні підсолоджувачі, суперфуди та секретний інгредієнт – любов.\n\nДаруйте коханим найкраще.",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674250937076,
+      "title": "Подарункова коробка «YARO Love &amp; Sweets»",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2604/small/d820cb3687e699db6192f959eb7a3d085fed48c8.webp",
+        "https://yaro.ua/assets/images/products/2604/small/89cec26e333f842a8c05da11070510a89a2176f5.webp",
+        "https://yaro.ua/assets/images/products/2604/small/25bd1cc643c462a62d01162491a20318f598b0aa.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2604/detail/d820cb3687e699db6192f959eb7a3d085fed48c8.webp",
+        "https://yaro.ua/assets/images/products/2604/detail/89cec26e333f842a8c05da11070510a89a2176f5.webp",
+        "https://yaro.ua/assets/images/products/2604/detail/25bd1cc643c462a62d01162491a20318f598b0aa.webp"
+      ],
+      "inside": [
+        "Печиво Caramel Crush Cookie",
+        "Печиво Choco cookies",
+        "Печиво Вівсяне choco drops",
+        "Печиво Вівсяне classic",
+        "Цукерка Coco Bar",
+        "Цукерка Coco&Caramel",
+        "Цукерка Old School Peanut",
+        "Цукерка Амарант",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "519",
+      "amount": "20",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Про цю цукерку-бестселер ходять легенди! Хтось хвалить ніжний шар арахісової пасти, хтось без розуму від фінікової карамелі, інші обожнюють її за бездоганний склад. А ми і не сперечаємося, адже Солона Карамель – це класика, яка ніколи не набридає. Ми поєднували прості і натуральні інгредієнти, щоб отримати неймовірний солонувато-солодкий смак. \n\nПростота складу: всього 6 компонентів, без жодних підсолоджувачів. Солодкий смак цукерці надає натуральний фінік, а глазур створена з супефруда кероба. \n\nУпаковка: в наборі 24 цукерки в окремих flow-pack упаковках. \n\nІдеальне поєднання: здається, що смак цієї цукерки досконалий і його вже нічим не доповнити, але ви спробуйте її в поєднанні з гречаним чаєм – суцільне задоволення без відчуття провини!",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674250993110,
+      "title": "Шоу-бокс цукерок \"Солона карамель\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1557/small/6fc01a4979ef4568f88f3e6966d7bf1b064b194f.webp",
+        "https://yaro.ua/assets/images/products/1557/small/80cd511fd60f6112874f8621ce92d8dd5b1892f4.webp",
+        "https://yaro.ua/assets/images/products/1557/small/16dbe0582576104061ac770d4011b97fbfa5308b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1557/detail/6fc01a4979ef4568f88f3e6966d7bf1b064b194f.webp",
+        "https://yaro.ua/assets/images/products/1557/detail/80cd511fd60f6112874f8621ce92d8dd5b1892f4.webp",
+        "https://yaro.ua/assets/images/products/1557/detail/16dbe0582576104061ac770d4011b97fbfa5308b.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Ядра арахісу",
+        "Какао-масло",
+        "Кероб",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "432",
+      "amount": "24",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Як би ми описали смак цієї цукерки? Мабуть, ніжний і насичений одночасно. Вся справа в тому, що в шоколадній глазурі з керобу поєднано 2 шари начинки: густа фінікова карамель і хрустке кокосове печиво. Їх дует створює надзвичайну гармонію текстур і особливий смак. \n\nПодача: в наборі 4 цукерки в окремих flow-pack упаковках. \n\nІдеальне поєднання: ця цукерка начебто була створена для затишних посиденьок в колі близьких і коханих. Заварюйте трав'яний чай, додайте ароматний імбир і лимон, відкривайте набір цукерок Coco  & Caramel і насолоджуйтеся моментом.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251034526,
+      "title": "Набір цукерок \"Coco&amp;Caramel\" ",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1593/small/4ab1567f2768b36abc05c4bda3734c40561d2f6d.webp",
+        "https://yaro.ua/assets/images/products/1593/small/ed7b97403e5ee4d585b2cef6d7e77fc79aac5ad8.webp",
+        "https://yaro.ua/assets/images/products/1593/small/5201ca43c1acc7c3f839fa90f8e68bcd1c6cc7f6.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1593/detail/4ab1567f2768b36abc05c4bda3734c40561d2f6d.webp",
+        "https://yaro.ua/assets/images/products/1593/detail/ed7b97403e5ee4d585b2cef6d7e77fc79aac5ad8.webp",
+        "https://yaro.ua/assets/images/products/1593/detail/5201ca43c1acc7c3f839fa90f8e68bcd1c6cc7f6.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Стружка кокосова",
+        "Какао-масло",
+        "Кероб",
+        "Горіх кеш`ю",
+        "Сироп топінамбура",
+        "Цукор кокосовий",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "72",
+      "amount": "4",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Як би ми описали смак цієї цукерки? Мабуть, ніжний і насичений одночасно. Вся справа в тому, що в шоколадній глазурі з керобу поєднано 2 шари начинки: густа фінікова карамель і хрустке кокосове печиво. Їх дует створює надзвичайну гармонію текстур і особливий смак. \n\nПодача: в наборі 24 цукерки в окремих flow-pack упаковках. \n\nІдеальне поєднання: ця цукерка начебто була створена для затишних посиденьок в колі близьких і коханих. Заварюйте трав'яний чай, додайте ароматний імбир і лимон, відкривайте набір цукерок Coco  & Caramel і насолоджуйтеся моментом.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251068291,
+      "title": "Шоу-бокс цукерок \"Coco&amp;Caramel\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1596/small/7569bc66024837b64d9127557a4f8d8656692944.webp",
+        "https://yaro.ua/assets/images/products/1596/small/4f4076d130154f766c6913a5f289d9bd76345071.webp",
+        "https://yaro.ua/assets/images/products/1596/small/56a89d1ab773d0d59e00b7d9c06f44d8d0d3094c.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1596/detail/7569bc66024837b64d9127557a4f8d8656692944.webp",
+        "https://yaro.ua/assets/images/products/1596/detail/4f4076d130154f766c6913a5f289d9bd76345071.webp",
+        "https://yaro.ua/assets/images/products/1596/detail/56a89d1ab773d0d59e00b7d9c06f44d8d0d3094c.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Стружка кокосова",
+        "Какао-масло",
+        "Кероб",
+        "Горіх кеш`ю",
+        "Сироп топінамбура",
+        "Цукор кокосовий",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "432",
+      "amount": "24",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Обережно, ця цукерка викликає залежність! Вона підкорює своїм бездоганним смаком з першого знайомства, а її ніжну текстуру не сплутати ні з якою іншою цукеркою. Складно повірити, що ця цукерка не містить цукру, адже смакові рецептори від неї в повному захваті! \n\n3 чарівних шари: фінікова нуга з шматочками арахісу, тягуча кокосова карамель, ніжна горіхова паста і все це в глазурі з керобу. \n\nУпаковка: в наборі 24 цукерки в окремих flow-pack упаковках. \n\nІдеальне поєднання: ми знаємо, як складно встояти перед спокусою, коли хочеться чогось солодкого тут і зараз. Вибирайте Old school peanut в поєднанні з Імбирним латте або цитрусовим чаєм і насолоджуйтеся цим бездоганним дуетом без шкоди для фігури! ",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251097934,
+      "title": "Шоу-бокс цукерок \"Old School Peanut\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1599/small/04c291eb445d4b1685db7f1b88f79cf1b8d6dbe6.webp",
+        "https://yaro.ua/assets/images/products/1599/small/7b59a1b4ba8d7deb6d687fd36d8fb4c8556989c9.webp",
+        "https://yaro.ua/assets/images/products/1599/small/3f31cbfa1e0236d677dba11f2e441519724faa0d.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1599/detail/04c291eb445d4b1685db7f1b88f79cf1b8d6dbe6.webp",
+        "https://yaro.ua/assets/images/products/1599/detail/7b59a1b4ba8d7deb6d687fd36d8fb4c8556989c9.webp",
+        "https://yaro.ua/assets/images/products/1599/detail/3f31cbfa1e0236d677dba11f2e441519724faa0d.webp"
+      ],
+      "inside": [
+        "Кокосове молоко",
+        "Фінік",
+        "Горіх кеш`ю",
+        "Кероб",
+        "Ядра арахісу",
+        "Екстракт яблучного соку концентрований",
+        "Цукор кокосовий",
+        "Какао-масло",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "432",
+      "amount": "24",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Ви колись чули про \"цукерку-суперфуд\"? Якщо це не так – ви багато втратили, проте ми готові  познайомити вас прямо зараз! Цукерка Амарант – наша новинка і в кожну її крихту вкладена любов і турбота про ваше здоров'я. В основі цієї цукерки зерна амаранту, які містять багато легкозасвоюваних білків і амінокислот. Також вона містить залізо, кальцій, магній, фосфор, калій і багато-багато вітамінів. Глазур цукерки складається з ще одного суперфуду –  темперованого керобу. \n\nЩе 101 причина закохатися: бездоганний склад, але це не єдина перевага цієї цукерки. Хрустка текстура, насичений шоколадний смак і зручна індивідуальна упаковка не залишають іншого вибору,  як закохатися в Амарант раз і назавжди. \n\nБагато наших клієнтів порівнюють цю цукерку з домашніми вафлями. Не будемо сперечатися, що в поєднанні з чаєм або теплим какао вона наповнює найкращими і теплими спогадами про дитинство. ",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251127883,
+      "title": "Шоу-бокс цукерок \"Амарант\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1635/small/7e1defbe70c99c308acb7a01fe00abd145353ebf.webp",
+        "https://yaro.ua/assets/images/products/1635/small/2e9553c03494a3b877d214c0e9668aff940aebf9.webp",
+        "https://yaro.ua/assets/images/products/1635/small/a2ce73c69667bb4c01f515e32e8d0384590da8f4.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1635/detail/7e1defbe70c99c308acb7a01fe00abd145353ebf.webp",
+        "https://yaro.ua/assets/images/products/1635/detail/2e9553c03494a3b877d214c0e9668aff940aebf9.webp",
+        "https://yaro.ua/assets/images/products/1635/detail/a2ce73c69667bb4c01f515e32e8d0384590da8f4.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Цукор кокосовий",
+        "Какао-масло",
+        "Кероб",
+        "Насіння амаранту повітряне",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "360",
+      "amount": "24",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Великий бокс корисних солодощів — хіба можна мріяти про кращий подарунок?\n\nЗавдяки вашим побажанням ми створили великий подарунковий набір,в який входять всі улюблені смаки солодощів YARO. Всередині боксу знаходяться 7 видів цукерок-бестселерів,  4 виді печива різних смаків та 3 різноманітні смаки горішків у шоколадній глазурі.\n\nУ складі набору:\n\nФундук в керобі\n\nМигдаль в шоколаді з сіллю\n\nФундук карамель & кава\n\nПечиво вівсяне Сlassic 36 g (4 шт)\n\nПечиво вівсяне Мигдаль 36 g (4 шт)\n\nПечиво вівсяне Choco drops 36 g (4 шт)\n\nПечиво вівсяне Choco cookies 36 g (4 шт)\n\nЦукерка Амарант 15 g (4 шт)\n\nЦукерка Coco & Caramel Cookie 50 g (4 шт)\n\nЦукерка Old school peanut 18 g (5 шт)\n\nЦукерка Cолона карамель 18 g (5 шт)\n\nЦукерка Cолона карамель мигдаль 18 g (5 шт)\n\nЦукерка Cосо bar 18 g (5 шт)\n\nЦукерка Cоco & Caramel 18 g (5 шт)",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251155725,
+      "title": "Подарунковий Набір - Sunny Sweet Box",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2282/small/b8e36a7271e1857e32d274f8443b413c6e202d32.webp",
+        "https://yaro.ua/assets/images/products/2282/small/f1bccdc5d68b6b7c8f2c6a531ec651f4cfdf34b5.webp",
+        "https://yaro.ua/assets/images/products/2282/small/047f4f6f09b57af4d14db21e49213c33a30c8aa0.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2282/detail/b8e36a7271e1857e32d274f8443b413c6e202d32.webp",
+        "https://yaro.ua/assets/images/products/2282/detail/f1bccdc5d68b6b7c8f2c6a531ec651f4cfdf34b5.webp",
+        "https://yaro.ua/assets/images/products/2282/detail/047f4f6f09b57af4d14db21e49213c33a30c8aa0.webp"
+      ],
+      "inside": [
+        "Печиво Вівсяне classic",
+        "Печиво Вівсяне мигдаль",
+        "Печиво Вівсяне choco drops",
+        "Печиво Choco cookies",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Old School Peanut",
+        "Цукерка Coco&Caramel",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль",
+        "Цукерка Coco Bar",
+        "Цукерка Амарант",
+        "Глазуровані горіхи \"Фундук в керобі без цукру\"",
+        "Глазуровані горіхи \"Фундук карамель & кава\"",
+        "Глазуровані горіхи \"Мигдаль в шоколаді з сіллю\""
+      ],
+      "weight": "1521",
+      "amount": "53",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Зустрічайте найшоколаднішу цукерку YARO - Hazelnut in double cocoa.\n\nЇї смак не сплутати з іншими нашими солодощами: насичена шоколадна глазур, під якою захований цілий горішок, покрита тертим фундуком.\n\nЗа ідеальний баланс солодкого смаку відповідає суперфуд сироп топінамбура. \n\nВ наборі 6 цукерок.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251193349,
+      "title": "Набір цукерок \"Double cocoa\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1695/small/d716bc4ce73641c0560e7d51cd324bbe8a1fd5d0.webp",
+        "https://yaro.ua/assets/images/products/1695/small/1e1b3d2c72986f649bf68ac5980c6f1dafbdcfd0.webp",
+        "https://yaro.ua/assets/images/products/1695/small/51e60ecf91c48ac0e4a2208479b1cfa4ede60dfb.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1695/detail/d716bc4ce73641c0560e7d51cd324bbe8a1fd5d0.webp",
+        "https://yaro.ua/assets/images/products/1695/detail/1e1b3d2c72986f649bf68ac5980c6f1dafbdcfd0.webp",
+        "https://yaro.ua/assets/images/products/1695/detail/51e60ecf91c48ac0e4a2208479b1cfa4ede60dfb.webp"
+      ],
+      "inside": [
+        "Какао-масло",
+        "Сироп топінамбура",
+        "Какао терте",
+        "Горіх фундук",
+        "Горіх кеш`ю",
+        "Паста кокосова",
+        "Какао порошок Extra Brute",
+        "Молоко кокосове сухе",
+        "Натуральний екстракт ванілі"
+      ],
+      "weight": "120",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Нова версія горішків у шоколаді без присипки.\n\nУлюблений снек тих, хто обожнює кавовий смак та дбає про своє здоров’я. А тепер ним ще й стало зручно насолоджуватися у будь-якій ситуації. \n\nФундук карамель&кава не забруднить сидіння автомобіля, коли стоїте у заторах, не зіпсує білу скатертину або ковдру, коли вирішили похрумтіти під час перегляду фільму або поверхню тачпаду, коли захотілося поживного перекусу під час роботи.\n\nНасолоджуйтеся вишуканим кавовим смаком та солодкістю натуральних підсолоджувачів з комфортом.",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674251229920,
+      "title": "Глазуровані горіхи \"Фундук карамель &amp; кава\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1614/small/7fdc8ead9f44d51f46c59d31f1e0cb3fab821a3a.webp",
+        "https://yaro.ua/assets/images/products/1614/small/c48e33f971a3764c0ab3be845ca79d738fe0ff7e.webp",
+        "https://yaro.ua/assets/images/products/1614/small/ba7ee06200ca432026c89df6014a90241d50271c.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1614/detail/7fdc8ead9f44d51f46c59d31f1e0cb3fab821a3a.webp",
+        "https://yaro.ua/assets/images/products/1614/detail/c48e33f971a3764c0ab3be845ca79d738fe0ff7e.webp",
+        "https://yaro.ua/assets/images/products/1614/detail/ba7ee06200ca432026c89df6014a90241d50271c.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Цукор кокосовий",
+        "Какао терте",
+        "Какао-масло",
+        "Молоко кокосове сухе",
+        "Горіх мигдаль",
+        "Пластівці вівсяні",
+        "Кава мелена",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "75",
+      "amount": "1",
+      "category": "Горіхи в шоколаді"
+    },
+    {
+      "description": "Оновлені горішки в шоколаді без присипки.\n\nМи дуже старалися, аби зберегти ваш улюблений смак та корисний склад, тому залишили все як і було, лише позбавили цей поживний снек присипки.\n\nВишуканий солодко-солонуватий мигдаль тепер не забруднить ані ваші руки, ані будь-що навколо.\n\nШоколадна глазур має незабутній смак і приємну текстуру. В якості підсолоджувача в глазурі використаний кокосовий цукор і сироп топінамбура - натуральні цукрозамінники, які багаті нутрієнтами і не викликають стрибка інсуліну\n\nСпробуйте та закохайтеся.",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674251265180,
+      "title": "Глазуровані горіхи \"Мигдаль в шоколаді з сіллю\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1620/small/25e60e4e4f0bc7bd39cfc709fe29986755a9f929.webp",
+        "https://yaro.ua/assets/images/products/1620/small/91188ddf2781acfcaf0a32b2a7655c80411fa195.webp",
+        "https://yaro.ua/assets/images/products/1620/small/c1b2acdbd5561ff3cf6406517b3b204fa0adcca5.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1620/detail/25e60e4e4f0bc7bd39cfc709fe29986755a9f929.webp",
+        "https://yaro.ua/assets/images/products/1620/detail/91188ddf2781acfcaf0a32b2a7655c80411fa195.webp",
+        "https://yaro.ua/assets/images/products/1620/detail/c1b2acdbd5561ff3cf6406517b3b204fa0adcca5.webp"
+      ],
+      "inside": [
+        "Горіх мигдаль",
+        "Какао-масло",
+        "Какао терте",
+        "Цукор кокосовий",
+        "Молоко кокосове сухе",
+        "Паста кокосова",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "75",
+      "amount": "1",
+      "category": "Горіхи в шоколаді"
+    },
+    {
+      "description": "Кращий варіант сніданку перед насиченим днем, ця гранола натуральний енергетик!\n\nПриємний шоколадний смак, хрускіт горішків і прянощі апельсина. В якості корисного підсолоджувача ми використовуємо сироп топінамбура. Завдяки вмісту в топінамбурі інсуліну, сироп дозволяє стабілізувати рівень цукру, насичує енергією і корисними речовинами.\n\nМожна їсти з молоком або в сухому вигляді як корисний перекус.",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674251299243,
+      "title": "Горіховий кранч Choco",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1563/small/7fc393a8d1333a3ad03e0ae534e91722a40de3ab.webp",
+        "https://yaro.ua/assets/images/products/1563/small/a5a3d9aa48f42b04a07914eabb2f30ca9b87c6ee.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1563/detail/7fc393a8d1333a3ad03e0ae534e91722a40de3ab.webp",
+        "https://yaro.ua/assets/images/products/1563/detail/a5a3d9aa48f42b04a07914eabb2f30ca9b87c6ee.webp"
+      ],
+      "inside": [
+        "Горіх фундук",
+        "Горіх мигдаль",
+        "Горіх кеш`ю",
+        "Апельсин",
+        "Родзинки",
+        "Сироп топінамбура",
+        "Насіння льону",
+        "Кероб",
+        "Какао порошок",
+        "Какао-масло"
+      ],
+      "weight": "110",
+      "amount": "1",
+      "category": "Гранола та снеки"
+    },
+    {
+      "description": "Цей культовий шоколадний десерт ще ніколи не був таким корисним!\n\nМи використали два види безглютенового борошна — гречане та рисове, додали кокосове молоко — для ніжної текстури та кокосовий цукор — для делікатного солодкого смаку, і не забули про секретний інгредієнт — буряк.\n\n",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674251375038,
+      "title": "Торт Брауні",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2625/small/0cac6f8493e0a29cddcef0ddf7dc4d5aa6d73e97.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2625/detail/0cac6f8493e0a29cddcef0ddf7dc4d5aa6d73e97.webp"
+      ],
+      "inside": [
+        "Борошно гречане",
+        "Борошно рисове",
+        "Буряк",
+        "Вода",
+        "Какао терте",
+        "Кокосове молоко",
+        "Крохмаль кукурудзяний",
+        "Лимонна кислота",
+        "Насіння льону",
+        "Рожева гімалайська сіль",
+        "Сода харчова",
+        "Цукор кокосовий"
+      ],
+      "weight": "150",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Наші кондитери точно знають, як ви любите солодощі з горішками, тому вони створили печиво вівсяне Мигдаль. Ніжний аромат і класичний смак вівсяного печива переносять в дитинство і навіють найтепліші спогади. \n\nІдеальне поєднання: хрустку текстуру печива доповнить чашка улюбленого чаю або мигдального напою, наприклад, Матча латте. Солодкий перекус протягом дня або доповнення до ранкової кави — для цих ласощів не потрібен особливий привід. \n\nПодача: 4 упаковки по 2 печива, які зручно брати з собою для корисних перекусів серед дня. ",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251470513,
+      "title": "Шоу-бокс печива \"Вівсяне мигдаль\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1578/small/7acbef5307ca4554fe064ee3347ee249399c7754.webp",
+        "https://yaro.ua/assets/images/products/1578/small/a7739f5f4ccbccb09193f60730e3e7f572ec829a.webp",
+        "https://yaro.ua/assets/images/products/1578/small/8356c6b148e0a3c6e994ccd49366f33a68f22617.webp",
+        "https://yaro.ua/assets/images/products/1578/small/ba8acbe758e1bc35f5c0e8f89f2dfe8ae6e1e689.webp",
+        "https://yaro.ua/assets/images/products/1578/small/fb345f198bc3c133310ff2b80a8e58e1d7cb242b.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1578/detail/7acbef5307ca4554fe064ee3347ee249399c7754.webp",
+        "https://yaro.ua/assets/images/products/1578/detail/a7739f5f4ccbccb09193f60730e3e7f572ec829a.webp",
+        "https://yaro.ua/assets/images/products/1578/detail/8356c6b148e0a3c6e994ccd49366f33a68f22617.webp",
+        "https://yaro.ua/assets/images/products/1578/detail/ba8acbe758e1bc35f5c0e8f89f2dfe8ae6e1e689.webp",
+        "https://yaro.ua/assets/images/products/1578/detail/fb345f198bc3c133310ff2b80a8e58e1d7cb242b.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Горіх мигдаль",
+        "Цукор кокосовий",
+        "Насіння гарбуза",
+        "Масло кокосове",
+        "Вода",
+        "Насіння льону",
+        "Лимон",
+        "Сода харчова"
+      ],
+      "weight": "504",
+      "amount": "14",
+      "category": "Печиво"
+    },
+    {
+      "description": "Хрустке шоколадне печиво  —  улюблені ласощі багатьох! А що, якщо ми скажемо, що в ньому немає білого цукру, борошна та інгредієнтів тваринного походження? \n\nВ основі цього печива насіння чіа, в яких міститься найбільша кількість корисних жирів і клітковини. Печиво   Choco cookies сміливо можна назвати суперфудом, адже в його складі всього 5 корисних компонентів. 9/10 клієнтів вибирають це печиво за насичений шоколадний смак і незвичайну текстуру. \n\nПодача: 4 упаковки по 2 печива. ",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251500641,
+      "title": "Шоу-бокс печива \"Choco cookies\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1551/small/e2fba48f9ed3d002f84775578a5622f2c1a403a5.webp",
+        "https://yaro.ua/assets/images/products/1551/small/43043cd396ef0ef9ed3f885913d7dda87fb66187.webp",
+        "https://yaro.ua/assets/images/products/1551/small/a24cfa54e0e23afa482928f924fb7653529b22a1.webp",
+        "https://yaro.ua/assets/images/products/1551/small/1cbd70290421c1a21f7576c237998b06f35b1ce4.webp",
+        "https://yaro.ua/assets/images/products/1551/small/9d724318d09e8da7e046c5a31111d852961f9f58.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1551/detail/e2fba48f9ed3d002f84775578a5622f2c1a403a5.webp",
+        "https://yaro.ua/assets/images/products/1551/detail/43043cd396ef0ef9ed3f885913d7dda87fb66187.webp",
+        "https://yaro.ua/assets/images/products/1551/detail/a24cfa54e0e23afa482928f924fb7653529b22a1.webp",
+        "https://yaro.ua/assets/images/products/1551/detail/1cbd70290421c1a21f7576c237998b06f35b1ce4.webp",
+        "https://yaro.ua/assets/images/products/1551/detail/9d724318d09e8da7e046c5a31111d852961f9f58.webp"
+      ],
+      "inside": [
+        "Горіх мигдаль",
+        "Цукор кокосовий",
+        "Какао терте",
+        "Вода",
+        "Какао-масло",
+        "Какао порошок",
+        "Насіння чіа"
+      ],
+      "weight": "504",
+      "amount": "14",
+      "category": "Печиво"
+    },
+    {
+      "description": "Класичне вівсяне печиво з шоколадними краплями  — зізнаємося, навіть ми не в змозі встояти перед цими ласощами. Хрустке і ароматне печиво, яке  змінює уявлення про те, якими можуть бути корисні солодощі. \n\nІдеальне поєднання: ми рекомендуємо насолодитися печивом за чашкою кави або трав'яного чаю, на кілька хвилин забути про справи й турботи і повністю віддатися задоволенню. \n\nПодача: 4 упаковки по 2 печива, яким знайдеться місце в будь-якій сумочці. ",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251537674,
+      "title": "Шоу-бокс печива \"Вівсяне Choco drops\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1584/small/513725b069fc1c4c8bec15f7b6832a48208e4b63.webp",
+        "https://yaro.ua/assets/images/products/1584/small/c9d42124d6b3ff0ed96b308bbf06e04194cca214.webp",
+        "https://yaro.ua/assets/images/products/1584/small/bf4ebeab3c1d9e7f9eeb1e042f8922e939f75030.webp",
+        "https://yaro.ua/assets/images/products/1584/small/5f4e17ba76663ae0f99e10a2198d93fa3e6b9109.webp",
+        "https://yaro.ua/assets/images/products/1584/small/55640f86d7ed67461c27594533897d12c4ea033e.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1584/detail/513725b069fc1c4c8bec15f7b6832a48208e4b63.webp",
+        "https://yaro.ua/assets/images/products/1584/detail/c9d42124d6b3ff0ed96b308bbf06e04194cca214.webp",
+        "https://yaro.ua/assets/images/products/1584/detail/bf4ebeab3c1d9e7f9eeb1e042f8922e939f75030.webp",
+        "https://yaro.ua/assets/images/products/1584/detail/5f4e17ba76663ae0f99e10a2198d93fa3e6b9109.webp",
+        "https://yaro.ua/assets/images/products/1584/detail/55640f86d7ed67461c27594533897d12c4ea033e.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Насіння гарбуза",
+        "Шоколадні термодропси без цукру",
+        "Цукор кокосовий",
+        "Масло кокосове",
+        "Вода",
+        "Насіння льону",
+        "Лимон",
+        "Сода харчова"
+      ],
+      "weight": "504",
+      "amount": "14",
+      "category": "Печиво"
+    },
+    {
+      "description": "Сама назва цього десерту мимоволі навіює відчуття тепла і повного релаксу. Традиційний східний смаколик став не тільки корисніший на кухні YARO, а й дозволив насолоджуватися своїм смаком незалежно від сезону. \n\nСолодка, з великою кількістю хрустких горіхів  —  Vegan пахлава дарує справжнє смакове блаженство без шкоди для фігури. \n\n85% наших клієнтів відзначають, що люблять пахлаву за ідеальний баланс смаку і велику кількість горіхів. \n\nБездоганне поєднання: щоб повністю розкрити смак пахлави, заварюйте трав'яний чай або вирушайте в улюблену кав'ярню за фільтр-кавою. У поєднанні з гарячими напоями, смак пахлави відчувається ще ніжнішим і насиченішим. ",
+      "top": true,
+      "new": false,
+      "available": false,
+      "id": 1674251585224,
+      "title": "Набір Vegan Пахлава ",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1914/small/166dfebd615a1b15596d66b4d05d771b4949658d.webp",
+        "https://yaro.ua/assets/images/products/1914/small/63de194ac2e824809ef6640039f949e19b539900.webp",
+        "https://yaro.ua/assets/images/products/1914/small/c3936e83bdd2b4e97025a5547c7eae5b83d21568.webp",
+        "https://yaro.ua/assets/images/products/1914/small/5147264e19d7f0ae0ba2dffc660741dd2c4faee7.webp",
+        "https://yaro.ua/assets/images/products/1914/small/67c57ad950567d324f05c9b479f661982192c8b0.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1914/detail/166dfebd615a1b15596d66b4d05d771b4949658d.webp",
+        "https://yaro.ua/assets/images/products/1914/detail/63de194ac2e824809ef6640039f949e19b539900.webp",
+        "https://yaro.ua/assets/images/products/1914/detail/c3936e83bdd2b4e97025a5547c7eae5b83d21568.webp",
+        "https://yaro.ua/assets/images/products/1914/detail/5147264e19d7f0ae0ba2dffc660741dd2c4faee7.webp",
+        "https://yaro.ua/assets/images/products/1914/detail/67c57ad950567d324f05c9b479f661982192c8b0.webp"
+      ],
+      "inside": [
+        "Борошно спельти",
+        "Горіх волоський",
+        "Борошно кукурудзяне",
+        "Кокосове молоко",
+        "Сироп топінамбура",
+        "Крохмаль кукурудзяний",
+        "Олія виноградних кісточок",
+        "Натуральний екстракт ванілі",
+        "Рожева гімалайська сіль",
+        "Сода харчова"
+      ],
+      "weight": "120",
+      "amount": "4",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Сметанник, що не залишить після себе відчуття тяжкості. Наша веганська версія одного з улюблених тортів дитинства перевершила усі очікування. \nБісквіт зі спельтово-мигдалевого борошна, що тане у роті, крем на основі кокосового йогурту та насичений смак тропічного манго разом створюють магію смаку. Свіжості цьому торту додають лимонний фреш та цедра лайму у складі, а делікатної солодкості - сироп топінамбура.\n\nСмакуйте солодким без докорів сумління.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251611883,
+      "title": "Торт Сметанник з манго",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2376/small/0bd15e412baa5a4e4ab538525e7b0779b4fe2a18.webp",
+        "https://yaro.ua/assets/images/products/2376/small/20d25bd7c2302b96c03c725c70126b3087d927ab.webp",
+        "https://yaro.ua/assets/images/products/2376/small/c1e1edaa51f009fffc0ef4fadfa35404d9d21e92.webp",
+        "https://yaro.ua/assets/images/products/2376/small/44ed674fc8e4d673aac1a1894d05b28ecb0961d0.webp",
+        "https://yaro.ua/assets/images/products/2376/small/536952af13258de371b6afae49528f2684aead00.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2376/detail/0bd15e412baa5a4e4ab538525e7b0779b4fe2a18.webp",
+        "https://yaro.ua/assets/images/products/2376/detail/20d25bd7c2302b96c03c725c70126b3087d927ab.webp",
+        "https://yaro.ua/assets/images/products/2376/detail/c1e1edaa51f009fffc0ef4fadfa35404d9d21e92.webp",
+        "https://yaro.ua/assets/images/products/2376/detail/44ed674fc8e4d673aac1a1894d05b28ecb0961d0.webp",
+        "https://yaro.ua/assets/images/products/2376/detail/536952af13258de371b6afae49528f2684aead00.webp"
+      ],
+      "inside": [
+        "Кокосове молоко",
+        "Манго пюре",
+        "Борошно спельти",
+        "Олія виноградних кісточок",
+        "Сироп топінамбура",
+        "Напій вівсяний",
+        "Йогурт кокосовий",
+        "Борошно мигдалеве",
+        "Екстракт яблучного соку концентрований",
+        "Банан",
+        "Горіх мигдаль",
+        "Лайм",
+        "Крохмаль кукурудзяний",
+        "Лимон",
+        "Натуральний екстракт ванілі",
+        "Сода харчова"
+      ],
+      "weight": "250",
+      "amount": "1",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "В наборі 2 шт.\n\nЗавдяки вашій підтримці челенджу #YARO_рецепти наш асортимент значно розширився. Тож зустрічайте новинку, рецептом якої з нами поділилися саме ви.\n\nХрустка корзинка з пісочного тіста та ніжна кисло-солодкувата лимонна начинка робить цей десерт особливим та по-літньому освіжаючим. Ідеально смакує до легких літніх напоїв — матча або айс-лате.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251640846,
+      "title": "Лимонна тарта",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2228/small/755105df61a96674b74b76733ebf111476fc39d4.webp",
+        "https://yaro.ua/assets/images/products/2228/small/78b937e5ec01ddae3530e16b93c51c624d01a533.webp",
+        "https://yaro.ua/assets/images/products/2228/small/9010f3a8ec8e89fc0583e24fd6122360e04629bc.webp",
+        "https://yaro.ua/assets/images/products/2228/small/82fec430c3c4b553b9c118a20b50fe94d1b4fe11.webp",
+        "https://yaro.ua/assets/images/products/2228/small/9669f1da9ccc9a50fedeeb0b6e6731d144a332a7.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2228/detail/755105df61a96674b74b76733ebf111476fc39d4.webp",
+        "https://yaro.ua/assets/images/products/2228/detail/78b937e5ec01ddae3530e16b93c51c624d01a533.webp",
+        "https://yaro.ua/assets/images/products/2228/detail/9010f3a8ec8e89fc0583e24fd6122360e04629bc.webp",
+        "https://yaro.ua/assets/images/products/2228/detail/82fec430c3c4b553b9c118a20b50fe94d1b4fe11.webp",
+        "https://yaro.ua/assets/images/products/2228/detail/9669f1da9ccc9a50fedeeb0b6e6731d144a332a7.webp"
+      ],
+      "inside": [
+        "Напій рисовий",
+        "Горіх мигдаль",
+        "Масло кокосове",
+        "Екстракт яблучного соку концентрований",
+        "Борошно рисове",
+        "Лимон",
+        "Крохмаль кукурудзяний",
+        "Куркума"
+      ],
+      "weight": "190",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Всім відомий шоколадний десерт став ще смачніше і корисніше на кухні YARO! У це неможливо повірити, що в складі торта немає білої муки, рафінованого цукру, молочних продуктів і яєць.\n\nНасичений шоколадний смак, пружні коржі з спельтового борошна просочені ніжним кремом на основі кокосових вершків. Цей торт просто тане в роті і змушує забути про все навколо. ",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251665182,
+      "title": "Торт \"Vegan Празький\" цілий ",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1689/small/0a7313094275dd2a78f7548275d86659f369d6eb.webp",
+        "https://yaro.ua/assets/images/products/1689/small/7c8cbe92c403853df70981b999805be4aa94f45d.webp",
+        "https://yaro.ua/assets/images/products/1689/small/a1da35a2eb821897de0c1b02ea7a05f890be874f.webp",
+        "https://yaro.ua/assets/images/products/1689/small/857fdf24268ed144c8b2b40950b9d22ca1f2e5db.webp",
+        "https://yaro.ua/assets/images/products/1689/small/aad5e3b797c5875a3433979fcce663d65892f799.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1689/detail/0a7313094275dd2a78f7548275d86659f369d6eb.webp",
+        "https://yaro.ua/assets/images/products/1689/detail/7c8cbe92c403853df70981b999805be4aa94f45d.webp",
+        "https://yaro.ua/assets/images/products/1689/detail/a1da35a2eb821897de0c1b02ea7a05f890be874f.webp",
+        "https://yaro.ua/assets/images/products/1689/detail/857fdf24268ed144c8b2b40950b9d22ca1f2e5db.webp",
+        "https://yaro.ua/assets/images/products/1689/detail/aad5e3b797c5875a3433979fcce663d65892f799.webp"
+      ],
+      "inside": [
+        "Натуральний екстракт ванілі",
+        "Кокосове молоко",
+        "Йогурт кокосовий",
+        "Сироп топінамбура",
+        "Борошно спельти",
+        "Цукор кокосовий",
+        "Апельсин",
+        "Какао порошок",
+        "Масло кокосове",
+        "Ксилітол",
+        "Насіння льону",
+        "Лимон"
+      ],
+      "weight": "885",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Торт, який буквально тане в роті. Безліч найтонших шарів повітряного, але пружного тіста з спельтового борошна. \n\nСпельта — одна з небагатьох культур, яка вирощується без додавання мінеральних добрив, тому є екологічно чистою. Крім того, вона містить цілих 18 амінокислот, яких немає в продуктах тваринного походження і є рекордсменом серед всіх зернових за вмістом білка, амінокислот і клітковини. \n\nТорт просочений легким кокосовим кремом, прикрашений крихтою і фісташками. \n\nУ наборі 6 шматочків.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251704221,
+      "title": "Торт Vegan Наполеон (цілий)",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1686/small/1fd98bb88f7e2c8c28c80d23b545da9bb39f013c.webp",
+        "https://yaro.ua/assets/images/products/1686/small/db495430e9d711dbf3b290a0452ae697f625b410.webp",
+        "https://yaro.ua/assets/images/products/1686/small/713e976357c1123e090889a0e5d39ff1f595bf34.webp",
+        "https://yaro.ua/assets/images/products/1686/small/79da9ca5357a4f13ca84f9d22f535244468accee.webp",
+        "https://yaro.ua/assets/images/products/1686/small/355fe5b5bb8ebacdb2d7cdb5eb5cf08940b21625.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1686/detail/1fd98bb88f7e2c8c28c80d23b545da9bb39f013c.webp",
+        "https://yaro.ua/assets/images/products/1686/detail/db495430e9d711dbf3b290a0452ae697f625b410.webp",
+        "https://yaro.ua/assets/images/products/1686/detail/713e976357c1123e090889a0e5d39ff1f595bf34.webp",
+        "https://yaro.ua/assets/images/products/1686/detail/79da9ca5357a4f13ca84f9d22f535244468accee.webp",
+        "https://yaro.ua/assets/images/products/1686/detail/355fe5b5bb8ebacdb2d7cdb5eb5cf08940b21625.webp"
+      ],
+      "inside": [
+        "Кокосове молоко",
+        "Борошно спельти",
+        "Цукор кокосовий",
+        "Горіх мигдаль",
+        "Олія виноградних кісточок",
+        "Масло кокосове",
+        "Какао-масло",
+        "Горіх фісташки",
+        "Лайм",
+        "Натуральний екстракт ванілі",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "810",
+      "amount": "6",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Наше легендарне тістечко-мурашник Crumble відтепер стало ще зручніше та корисніше. Зустрічайте no added sugar та gluten-free печиво Caramel Crush!\n\nОснова десерту готується з безглютенового борошна, а ніжна карамель — на основі яблучного сиропу. А індивідуальна flow-pack упаковка дозволяє десерту довше зберігати свій смак та якість навіть на спеці, а ще її так зручно брати з собою в кишеньці будь-якої сумки!",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251742423,
+      "title": "Шоу-бокс печива Caramel Crush Cookies",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1755/small/104ca6f75e8a54ef90ce4681da30b05713a1c7cb.webp",
+        "https://yaro.ua/assets/images/products/1755/small/be1cb47cfaddb5effa6105b62b51f21066af5abe.webp",
+        "https://yaro.ua/assets/images/products/1755/small/a894a59707f44127e232f219374c1a31165426dc.webp",
+        "https://yaro.ua/assets/images/products/1755/small/0e28af875d3d11cefe6c4bf936d4ac88ceb0fcdd.webp",
+        "https://yaro.ua/assets/images/products/1755/small/fef2f576defe682b580ebf0760e155ebff80d8c8.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1755/detail/104ca6f75e8a54ef90ce4681da30b05713a1c7cb.webp",
+        "https://yaro.ua/assets/images/products/1755/detail/be1cb47cfaddb5effa6105b62b51f21066af5abe.webp",
+        "https://yaro.ua/assets/images/products/1755/detail/a894a59707f44127e232f219374c1a31165426dc.webp",
+        "https://yaro.ua/assets/images/products/1755/detail/0e28af875d3d11cefe6c4bf936d4ac88ceb0fcdd.webp",
+        "https://yaro.ua/assets/images/products/1755/detail/fef2f576defe682b580ebf0760e155ebff80d8c8.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Екстракт яблучного соку концентрований",
+        "Кокосове молоко",
+        "Олія виноградних кісточок",
+        "Крохмаль кукурудзяний",
+        "Борошно рисове",
+        "Сода харчова",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "700",
+      "amount": "14",
+      "category": "Печиво"
+    },
+    {
+      "description": "Наші клієнти говорять, що смак цього печива повертає їх в теплі дитячі спогади. Дійсно, печиво Вівсяне classic  — це улюблена класика, яка стала ще кориснішою в кондитерській YARO.\n\nМи самі робимо вівсяну муку з безглютенових пластівців, вибираємо тільки якісні рослинні інгредієнти.\n\nСолодкий смак завдяки кокосовому цукру  — натуральний підсолоджувач з низьким глікемічним індексом і безліччю корисних мінералів у складі. \n\nІдеальне поєднання: спробуйте вівсяне печиво з нашим кремом на основі кокосових вершків. Контраст текстур і ніжний смак не залишать байдужими навіть найвибагливіших ласунів. \n\nПодача: 2 упаковки по 2 печива, які зручно брати з собою для корисних перекусів серед дня.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251764713,
+      "title": "Шоу-бокс печива \"Вівсяне Classic\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1554/small/2c82b0b65c09e3f0b1e2a9342c993f73b87bd56f.webp",
+        "https://yaro.ua/assets/images/products/1554/small/add570a747ce90a7983a6bd9f984fc93e2589842.webp",
+        "https://yaro.ua/assets/images/products/1554/small/942d5cb04d871b5be8ef8c255fdcc530936f7140.webp",
+        "https://yaro.ua/assets/images/products/1554/small/bf04170ab5cd6a4277cc9925cc05c7ffec4dc511.webp",
+        "https://yaro.ua/assets/images/products/1554/small/5b1b268cdf5b3d2e76df874a3b44204ab9a4053d.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1554/detail/2c82b0b65c09e3f0b1e2a9342c993f73b87bd56f.webp",
+        "https://yaro.ua/assets/images/products/1554/detail/add570a747ce90a7983a6bd9f984fc93e2589842.webp",
+        "https://yaro.ua/assets/images/products/1554/detail/942d5cb04d871b5be8ef8c255fdcc530936f7140.webp",
+        "https://yaro.ua/assets/images/products/1554/detail/bf04170ab5cd6a4277cc9925cc05c7ffec4dc511.webp",
+        "https://yaro.ua/assets/images/products/1554/detail/5b1b268cdf5b3d2e76df874a3b44204ab9a4053d.webp"
+      ],
+      "inside": [
+        "Пластівці вівсяні",
+        "Цукор кокосовий",
+        "Насіння гарбуза",
+        "Масло кокосове",
+        "Вода",
+        "Насіння льону",
+        "Лимон",
+        "Сода харчова"
+      ],
+      "weight": "504",
+      "amount": "14",
+      "category": "Печиво"
+    },
+    {
+      "description": "Неймовірна новинка від YARO, яку ми отримали з вашим рецептом - торт Штрейзель з солодкою крихтою та фруктовою начинкою.\n\nДесерт готується з міксу безглютенового борошна - рисового, гречаного та кукурудзяного, а солодка начинка складається з вишні та яблука.\n\nЛегкий та поживний десерт ідеально смакує до різноманітних напоїв - травяного чаю, лимонаду або матча-лате.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251850262,
+      "title": "Пиріг Штрейзель з вишнею",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1953/small/a21a8f926ef682bb203652de723d4777c6ec471b.webp",
+        "https://yaro.ua/assets/images/products/1953/small/fd558dad2587669becdb2a9fb8dd8ece77ea0485.webp",
+        "https://yaro.ua/assets/images/products/1953/small/3f140dd2ea9c3cfc9dc0c1467b9fc62d7448318d.webp",
+        "https://yaro.ua/assets/images/products/1953/small/5e187813563490c7b5a499e505232b2e344c378c.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1953/detail/a21a8f926ef682bb203652de723d4777c6ec471b.webp",
+        "https://yaro.ua/assets/images/products/1953/detail/fd558dad2587669becdb2a9fb8dd8ece77ea0485.webp",
+        "https://yaro.ua/assets/images/products/1953/detail/3f140dd2ea9c3cfc9dc0c1467b9fc62d7448318d.webp",
+        "https://yaro.ua/assets/images/products/1953/detail/5e187813563490c7b5a499e505232b2e344c378c.webp"
+      ],
+      "inside": [
+        "Вишня",
+        "Борошно рисове",
+        "Яблуко",
+        "Борошно кукурудзяне",
+        "Борошно гречане",
+        "Екстракт яблучного соку концентрований",
+        "Масло кокосове",
+        "Цукор кокосовий",
+        "Крохмаль кукурудзяний",
+        "Рожева гімалайська сіль",
+        "Сода харчова"
+      ],
+      "weight": "170",
+      "amount": "2",
+      "category": "Випічка та солодощі"
+    },
+    {
+      "description": "Дарувати солодкі подарунки - універсальна мова любові. До Дня всіх закоханих ми причепурили Sweet box романтичними малюнками, а всередині - як завжди - улюблений набір з 10 солодких та корисних бестселерів у флоу-паках. Цукерки з натуральних інгредієнтів без крихти білого цукру, печиво без глютену та лактози і секретний компонент - любов. Даруйте коханим найкраще, адже вони цього заслуговують.",
+      "top": false,
+      "new": true,
+      "available": false,
+      "id": 1674251873309,
+      "title": "Набір \"Sweet Box\" - зі Святковим рукавом 14 лютого",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/2607/small/ab21c7509609bc85c085287498158f47307368b9.webp",
+        "https://yaro.ua/assets/images/products/2607/small/862d5b40e315e22a32990d83d3d6b7712a60f20a.webp",
+        "https://yaro.ua/assets/images/products/2607/small/95729edf67b22b4a5f8f1fe3511e84f96bbc79ad.webp",
+        "https://yaro.ua/assets/images/products/2607/small/08f2dd6bf2502b37facbbcf78e94c855b5eb39c4.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/2607/detail/ab21c7509609bc85c085287498158f47307368b9.webp",
+        "https://yaro.ua/assets/images/products/2607/detail/862d5b40e315e22a32990d83d3d6b7712a60f20a.webp",
+        "https://yaro.ua/assets/images/products/2607/detail/95729edf67b22b4a5f8f1fe3511e84f96bbc79ad.webp",
+        "https://yaro.ua/assets/images/products/2607/detail/08f2dd6bf2502b37facbbcf78e94c855b5eb39c4.webp"
+      ],
+      "inside": [
+        "Печиво Choco cookies",
+        "Печиво Вівсяне choco drops",
+        "Печиво Вівсяне classic",
+        "Цукерка Coco & Caramel Cookie",
+        "Цукерка Coco Bar",
+        "Цукерка Coco&Caramel",
+        "Цукерка Old School Peanut",
+        "Цукерка Солона карамель",
+        "Цукерка Солона карамель мигдаль"
+      ],
+      "weight": "14284",
+      "amount": "10",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Мигдалева версія нашої класичної цукерки.\n\nЯк і звичайна Солона карамель, ця цукерка доводить, що для створення унікального смаку досить мінімуну інгредієнтів. Ні крихти цукру, тільки фінікова карамель і мигдалева паста, вишуканий смак якої ні з чим не сплутати, і глазур з кероба.\n\nМи також додали у склад суперфуд — соняшниковий лецитин і щіпку рожевої гімалайської солі, щоб підкреслити солодко-солонуватий смак.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251912270,
+      "title": "Шоу-бокс цукерок \"Солона карамель мигдаль\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1605/small/304ab1918e16badf7202231157070bc7d4160080.webp",
+        "https://yaro.ua/assets/images/products/1605/small/c5ef445bfceb433b16a8869cd2990c4acc7964f7.webp",
+        "https://yaro.ua/assets/images/products/1605/small/90ae82e5f45e6752c7a35226a25c6da5cd8b4eeb.webp",
+        "https://yaro.ua/assets/images/products/1605/small/6b8e1ab12fe83e9d5af2ee25352a227c85d736e6.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1605/detail/304ab1918e16badf7202231157070bc7d4160080.webp",
+        "https://yaro.ua/assets/images/products/1605/detail/c5ef445bfceb433b16a8869cd2990c4acc7964f7.webp",
+        "https://yaro.ua/assets/images/products/1605/detail/90ae82e5f45e6752c7a35226a25c6da5cd8b4eeb.webp",
+        "https://yaro.ua/assets/images/products/1605/detail/6b8e1ab12fe83e9d5af2ee25352a227c85d736e6.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Горіх мигдаль",
+        "Какао-масло",
+        "Кероб",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "432",
+      "amount": "24",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Coco & Caramel Cookie - це оновлена версія цукерки-бестселера Vegan Wheel. Вона стала ще смачнішою, не втративши своєї поживності і чарівного смаку. Склад цукерки залишився незмінним: тільки натуральні рослинні компоненти без додавання консервантів і рафінованого цукру.\n\nЦукерка складається з 3 неймовірних шарів: кокосове печиво, фінікова карамель і мигдальна паста роблять цукерку Coco &  Caramel Cookie настільки особливою, а унікальну глазур ми виготовляємо з кероба та  використовуємо темперування для додання природного блиску і цільності.\n\nПодача: у наборі 4 цукерки в упаковці flow-pack.\n\nІдеальне поєднання: кажуть, що ця цукерка повністю змінює уявлення про healthy-солодощі. Спробуйте її в поєднанні з улюбленою кавою та відчуйте справжню насолоду.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251937928,
+      "title": "Шоу-бокс цукерок \"Coco&amp;Caramel Cookies\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1659/small/8a5120facdc938fc39711cc89b1b01e6885902d5.webp",
+        "https://yaro.ua/assets/images/products/1659/small/cbe72e89af35c21788feb6940dd0e65ee51cdcbf.webp",
+        "https://yaro.ua/assets/images/products/1659/small/fa375b8431040a31ef49084f30232396edfe56d8.webp",
+        "https://yaro.ua/assets/images/products/1659/small/90d09696a8f224c6bfbec3918ab78b7d1e15fa8e.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1659/detail/8a5120facdc938fc39711cc89b1b01e6885902d5.webp",
+        "https://yaro.ua/assets/images/products/1659/detail/cbe72e89af35c21788feb6940dd0e65ee51cdcbf.webp",
+        "https://yaro.ua/assets/images/products/1659/detail/fa375b8431040a31ef49084f30232396edfe56d8.webp",
+        "https://yaro.ua/assets/images/products/1659/detail/90d09696a8f224c6bfbec3918ab78b7d1e15fa8e.webp"
+      ],
+      "inside": [
+        "Фінік",
+        "Стружка кокосова",
+        "Горіх мигдаль",
+        "Какао-масло",
+        "Кероб",
+        "Горіх кеш`ю",
+        "Сироп топінамбура",
+        "Цукор кокосовий",
+        "Масло кокосове",
+        "Рожева гімалайська сіль",
+        "Емульгатор Лецитин соняшниковий"
+      ],
+      "weight": "700",
+      "amount": "14",
+      "category": "Цукерки"
+    },
+    {
+      "description": "Неймовірна цукерка-бестселер YARO в новому форматі!\n\nСолодка повітряна пудра в поєднанні з насиченим кокосовим смаком і хрусткими горішками всередині, дарують незабутню смакову насолоду.\n\nІндивідуальна flow-pack упаковка дозволила продовжити термін зберігання і зберегти незабутній смак.\n\nВ наборі 24 цукерки.",
+      "top": false,
+      "new": false,
+      "available": false,
+      "id": 1674251986073,
+      "title": "Шоу-бокс цукерок \"Coco Bar\"",
+      "price": "",
+      "thumbnails": [
+        "https://yaro.ua/assets/images/products/1650/small/b088c83a10bf470f9a7e90663d2f8a02457968be.webp",
+        "https://yaro.ua/assets/images/products/1650/small/a94c1f4db8483771a0b25e350f8ce79c52ad52dd.webp",
+        "https://yaro.ua/assets/images/products/1650/small/0ef7aff957a54dc836479e215d036e08267877df.webp",
+        "https://yaro.ua/assets/images/products/1650/small/bde37f7aa99333148ad7096b51679f9a73393c87.webp"
+      ],
+      "photo": [
+        "https://yaro.ua/assets/images/products/1650/detail/b088c83a10bf470f9a7e90663d2f8a02457968be.webp",
+        "https://yaro.ua/assets/images/products/1650/detail/a94c1f4db8483771a0b25e350f8ce79c52ad52dd.webp",
+        "https://yaro.ua/assets/images/products/1650/detail/0ef7aff957a54dc836479e215d036e08267877df.webp",
+        "https://yaro.ua/assets/images/products/1650/detail/bde37f7aa99333148ad7096b51679f9a73393c87.webp"
+      ],
+      "inside": [
+        "Молоко кокосове сухе",
+        "Стружка кокосова",
+        "Горіх фундук",
+        "Сироп топінамбура",
+        "Горіх мигдаль",
+        "Ксилітол",
+        "Масло кокосове",
+        "Рожева гімалайська сіль"
+      ],
+      "weight": "432",
+      "amount": "24",
+      "category": "Цукерки"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment2", "postId": 2 },
+    { "id": 3, "body": "some comment2", "postId": 3 }
+  ]
+}
