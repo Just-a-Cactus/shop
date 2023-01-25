@@ -1,0 +1,11 @@
+export const NOT_FOUND = "/*";
+export const HOME = "/";
+export const PRODUCTS = "/products";
+export const ABOUT = "/about";
+export const BLOG = "/blog";
+export const CONTACTS = "/contacts";
+export const CART = "/cart";
+export const FAVORITES = "/favorites";
+export const PROFILE = "/profile";
+export const LOGIN = "/login";
+export const SIGN_UP = "/sign_up";
