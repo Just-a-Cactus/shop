@@ -16,6 +16,7 @@ import Favorites from "./components/Favorites";
 import Home from "./components/Home";
 import NotFound from "./components/NotFound";
 import Products from "./components/Products";
+import Login from "./components/Login";
 
 export const publicRoutes = [
   {
@@ -43,10 +44,6 @@ export const publicRoutes = [
   //   element: Cart,
   // },
   // {
-  //   path: LOGIN,
-  //   element: Login,
-  // },
-  // {
   //   path: SIGN_UP,
   //   element: SignUp,
   // },
@@ -68,6 +65,10 @@ export const privateRoutes = [
   {
     path: NOT_FOUND,
     element: <NotFound />,
+  },
+  {
+    path: LOGIN,
+    element: <Login />,
   },
   // {
   //   path: PROFILE,
