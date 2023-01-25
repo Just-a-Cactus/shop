@@ -8,8 +8,16 @@ import IconTextButton from "./components/UI/atoms/buttons/IconTextButton";
 import Input from "./components/UI/atoms/formElements/Input";
 import Label from "./components/UI/atoms/formElements/Label";
 import AppRouter from "./components/AppRouter";
+import ExitButton from "./components/ExitButton";
+import { useAuthState } from "react-firebase-hooks/auth";
+import { auth } from "./components/Login";
+import Loader from "./components/Loader";
 
 function App() {
+  const [user, loading] = useAuthState(auth as any);
+
+  if (loading) return <Loader />;
+
   return (
     <div className="App">
       <SolidButton title="Add to card" />
@@ -23,6 +31,7 @@ function App() {
         voluptates.
       </p>
       <AppRouter />
+      {user ? <ExitButton /> : null}
     </div>
   );
 }
